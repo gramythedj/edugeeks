@@ -4,6 +4,15 @@ date: 27-11-2022
 weight: 2
 math: true
 ---
+
+% \f is defined as #1f(#2) using the macro
+\f\relax{x} = \int_{-\infty}^\infty
+    \f\hat\xi\,e^{2 \pi i \xi x}
+    \,d\xi
+
+
+
+
 **1) Product Rule: Log<sub>a</sub> xy = log<sub>a</sub> x+ log<sub>a</sub> y**
 
 **proof:**
