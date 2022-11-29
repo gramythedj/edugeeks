@@ -4,15 +4,18 @@ date: 27-11-2022
 weight: 2
 math: true
 ---
-\begin{equation}
+
+
+
+\\( begin{equation}
 \sqrt{x^2+\sqrt{x^2+11}}+\sqrt{x^2-\sqrt{x^2+11}}=7
-\end{equation}
-\begin{equation}
+\end{equation} \\)
+\\( begin{equation}
 (\sqrt{x^2+\sqrt{x^2+11}}+\sqrt{x^2-\sqrt{x^2+11}})^2=49
-\end{equation}
-\begin{equation}
+\end{equation} \\)
+\\( begin{equation}
 x^2+\sqrt{x^2+11}+
-\end{equation}
+\end{equation} \\)
 
 
 
