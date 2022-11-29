@@ -6,12 +6,9 @@ markup: 'mmark'
 math: false
 ---
 
+$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
 
 
-Here's sum inline math: {{< tex "\sum_{n=1}^{\infty} 2^{-n} = 1" >}}.
-
-Display mode math looks like
-    {{< tex display="\int \frac{1}{x} dx = \ln |x|" >}}
 
 **1) Product Rule: Log<sub>a</sub> xy = log<sub>a</sub> x+ log<sub>a</sub> y**
 
