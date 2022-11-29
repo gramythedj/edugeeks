@@ -13,6 +13,7 @@
 <meta name="robots" content="noindex, nofollow">
 {{ end -}}
 
+{{ if .Params.math }}{{ partial "katex.html" . }}{{ end }}
 <!-- include our custom Kubeflow "seo_schema" partial -->
 {{ partial "seo_schema" . }}
 

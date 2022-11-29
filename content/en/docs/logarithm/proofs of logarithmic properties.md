@@ -2,7 +2,8 @@
 title: "Proofs of Logarithmic properties"
 date: 27-11-2022
 weight: 2
-math: true
+markup: 'mmark'
+math: false
 ---
 
 
