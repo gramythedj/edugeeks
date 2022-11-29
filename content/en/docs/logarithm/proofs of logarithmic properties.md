@@ -7,9 +7,10 @@ math: true
 
 
 
-$$y_t = \beta_0 + \beta_1 x_t + \epsilon_t$$
+Here's sum inline math: {{< tex "\sum_{n=1}^{\infty} 2^{-n} = 1" >}}.
 
-
+Display mode math looks like
+    {{< tex display="\int \frac{1}{x} dx = \ln |x|" >}}
 
 **1) Product Rule: Log<sub>a</sub> xy = log<sub>a</sub> x+ log<sub>a</sub> y**
 
