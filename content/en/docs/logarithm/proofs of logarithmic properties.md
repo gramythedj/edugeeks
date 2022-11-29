@@ -4,11 +4,15 @@ date: 27-11-2022
 weight: 2
 math: true
 ---
-
-% \f is defined as #1f(#2) using the macro
-\f\relax{x} = \int_{-\infty}^\infty
-    \f\hat\xi\,e^{2 \pi i \xi x}
-    \,d\xi
+\begin{equation}
+\sqrt{x^2+\sqrt{x^2+11}}+\sqrt{x^2-\sqrt{x^2+11}}=7
+\end{equation}
+\begin{equation}
+(\sqrt{x^2+\sqrt{x^2+11}}+\sqrt{x^2-\sqrt{x^2+11}})^2=49
+\end{equation}
+\begin{equation}
+x^2+\sqrt{x^2+11}+
+\end{equation}
 
 
 

@@ -5,7 +5,7 @@
 {{ range .AlternativeOutputFormats -}}
 <link rel="{{ .Rel }}" type="{{ .MediaType.Type }}" href="{{ .Permalink | safeURL }}">
 {{ end -}}
-{{ if .Params.math }}{{ partial "helpers/katex.html" . }}{{ end }}
+
 {{ $outputFormat := partial "outputformat.html" . -}}
 {{ if and hugo.IsProduction (ne $outputFormat "print") -}}
 <meta name="robots" content="index, follow">
