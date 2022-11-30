@@ -2,6 +2,7 @@
 title: "latex example"
 date: 30-11-2022
 weight: 3
+mathjax: true
 ---
 
 

@@ -2,7 +2,7 @@
 title: "Proofs of Logarithmic properties"
 date: 27-11-2022
 weight: 2
-
+mathjax: true
 ---
 
 $$ E=mc^2 $$
