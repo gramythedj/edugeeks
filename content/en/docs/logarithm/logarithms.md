@@ -3,7 +3,7 @@ title: "Definition and properties"
 date: 26-11-2022
 weight: 1
 url: /definition-and-properties-of-logarithms/
-math: true
+mathjax: true
 ---
 **Logarithm:** For a number and base, the power the base should have so that it is equal to the given number is called a logarithm.For example, the logarithm of 8 with base 2 means what power should 2 have so that it is equal to 8. 2<sup>3</sup>=8, the answer is 3.
 
