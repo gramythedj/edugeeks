@@ -109,15 +109,15 @@ use exponential property
 
 a=(b<sup>x</sup>)<sup>n</sup>
 
-use the property if $$ a<sup>m</sup>=b then a=b<sup>$\frac{1}{m}$</sup> $$ from exponents we can write the above equation as follows
+use the property if  a<sup>m</sup>=b then a=b<sup>$\frac{1}{m}$</sup>  from exponents we can write the above equation as follows
 
 a<sup>$\frac{1}{n}$</sup>=b<sup>x</sup>
 
 interchanging and converting into logarithmic form
 
-$$ b<sup>x</sup>=a<sup>$\frac{1}{n}$</sup> $$
+ b<sup>x</sup>=a<sup>$\frac{1}{n}$</sup> 
 
-$$ x=log<sup>b</sup> a<sup>$\frac{1}{n}$</sup> $$
+ x=log<sup>b</sup> a<sup>$\frac{1}{n}$</sup> 
 
 substitute the value of x=log<sub>b<sup>n</sup></sub> a and use logarithmic property log<sub>b</sub> a<sup>m</sup>= m log<sub>b</sub> a
 
