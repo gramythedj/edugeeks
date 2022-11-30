@@ -16,7 +16,6 @@ According to pythagoras theorem we can write
 
 ![triangle ABC](https://cdn.pixabay.com/photo/2022/11/30/15/38/triangle-7627070_960_720.jpg)
 
-<img src="/docs/images/RIGHT ANGLED TRIANGLE.jpg" width="200">
 
 
 $AB^2$ + $BC^2$ = $AC^2$
