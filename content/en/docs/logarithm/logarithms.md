@@ -44,17 +44,17 @@ Solutions are at the end of the article.
 
 For a, b, x, y being postive non-zero numbers.
 
-Product rule: Log<sub>a</sub> (xy)=log<sub>a</sub> x+ log<sub>a</sub> y
+Product rule: Log<sub>a</sub> xy = log<sub>a</sub> x+ log<sub>a</sub> y
 
-Quotient rule: Log<sub>a</sub> (x/y)=log<sub>a</sub> x- log<sub>a</sub> y
+Quotient rule: Log<sub>a</sub> $\frac{x}{y}$ = log<sub>a</sub> x- log<sub>a</sub> y
 
-Power rule: (i) log<sub>b</sub> (a^m)= m log<sub>b</sub> a
+Power rule: (i) log<sub>b</sub> $a^m$ = m log<sub>b</sub> a
 
-Power rule: (ii) log<sub>b<sup>n</sup></sub> a= 1/n log<sub>b</sub> a
+Power rule: (ii) log<sub>b<sup>n</sup></sub> a= $\frac{1}{n}$ log<sub>b</sub> a
 
-log<sub>b</sub> a= 1/log<sub>a</sub> b 
+log<sub>b</sub> a= $\frac{1}{log_a  b}$
 
-log<sub>b</sub> a= log<sub>x</sub> a/ log<sub>x</sub> b
+log<sub>b</sub> a= $\frac{log_x  a}{log_x  b}$
 
 log<sub>a</sub> 1 = 0
 
@@ -89,9 +89,9 @@ Sometimes we drop bases in logarithms for base 10 and natural logarithms. **Log<
 **1)** ans=3
 
 **Sol**: 
-log<sub>3</sub> 27 = log<sub>3</sub> (3^3)
+log<sub>3</sub> 27 = log<sub>3</sub> $3^3$
 
-Using the property log_b a^n = n log_b a
+Using the property $log_b$ $a^n$ = n $log_b$ a
 
   = 3log<sub>3</sub> 3
 
@@ -99,13 +99,13 @@ Using the property log<sub>a</sub> a=1
 
   = 3
 
-**2)**ans=2
+**2)** ans=2
 
 **Sol:**
 
-log<sub>10</sub> 100 = log<sub>10</sub> 10^2
+log<sub>10</sub> 100 = log<sub>10</sub> $10^2$
 
-Using the property log<sub>b</sub> a^n = n log<sub>b</sub> a
+Using the property log<sub>b</sub> $a^n$ = n log<sub>b</sub> a
 
 = 2log<sub>10</sub> 10
 
@@ -131,9 +131,9 @@ Using the property log<sub>a</sub> a=1
 
 **Sol:**
 
-Log<sub>10</sub> (0.1) = log<sub>10</sub> (1/10)
+Log<sub>10</sub> (0.1) = log<sub>10</sub> $\frac{1}{10}$
 
-Using the property  Log<sub>a</sub> (x/y)=log<sub>a</sub> x- log<sub>a</sub> y
+Using the property  Log<sub>a</sub> $\frac{x}{y}$ =log<sub>a</sub> x- log<sub>a</sub> y
 
 
   = - log<sub>10</sub> 10
@@ -155,9 +155,9 @@ Using the property log<sub>a</sub> a=1
 
 log<sub>5</sub> x = log<sub>5</sub> 2 + log<sub>5</sub> 7
 
-Using the property Log<sub>a</sub> (xy)=log<sub>a</sub> x+ log<sub>a</sub> y
+Using the property Log<sub>a</sub> xy=log<sub>a</sub> x+ log<sub>a</sub> y
 
-log<sub>5</sub> x = log<sub>5</sub> (2*7)
+log<sub>5</sub> x = log<sub>5</sub> 2*7
 
 Using the property if log<sub>a</sub> b=log<sub>a</sub> c then b=c
 
@@ -169,9 +169,9 @@ x=14
 
 log<sub>b</sub> x+log<sub>b</sub> 1/x
 
-Using the property Log<sub>a</sub> (xy)=log<sub>a</sub> x+ log<sub>a</sub> y
+Using the property Log<sub>a</sub> xy =log<sub>a</sub> x+ log<sub>a</sub> y
 
-=log<sub>b</sub> (x*$\frac{1}{x}$)
+=log<sub>b</sub> x* $\frac{1}{x}$
 
 =log<sub>b</sub> 1
 
@@ -185,9 +185,9 @@ Using the property Log<sub>a</sub> 1 = 0
 
 log<sub>5</sub> 15 - log<sub>5</sub> 3
 
-Using the property Log<sub>a</sub> (x/y)=log<sub>a</sub> x- log<sub>a</sub> y
+Using the property Log<sub>a</sub> $\frac{x}{y}$ =log<sub>a</sub> x- log<sub>a</sub> y
 
-=Log<sub>5</sub> 15/3
+=Log<sub>5</sub> $\frac{15}{3}$
 
 = log<sub>5</sub> 5
 
@@ -201,7 +201,7 @@ Using the property Log<sub>a</sub> 1 = 0
 
 log<sub>5</sub> 125
 
-=log<sub>5</sub> 5<sup>3<\sup>
+=log<sub>5</sub> $5^3$
 
   Using the property log<sub>b</sub> a<sup>n</sup> = n log<sub>b</sub> a
 
@@ -219,7 +219,7 @@ log<sub>16</sub> 4
 
  =log<sub>4<sup>2</sup></sub> 4
 
-Using the property log<sub>b<sup>n</sup></sub> a = 1/n log<sub>b</sub> a
+Using the property log<sub>b<sup>n</sup></sub> a = $\frac{1}{n}$ log<sub>b</sub> a
 
   =½ log<sub>4</sub> 4
 
