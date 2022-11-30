@@ -35,7 +35,7 @@ on substituting the values m= log<sub>a</sub> x and n =log<sub>a</sub> y we get
 
 log<sub>a</sub> xy = log<sub>a</sub> x + log<sub>a</sub> y
 
-**2) Quotient Rule: Log<sub>a</sub> x/y=log<sub>a</sub> x- log<sub>a</sub> y**
+**2) Quotient Rule: Log<sub>a</sub> $\frac{x}{y}$ =log<sub>a</sub> x- log<sub>a</sub> y**
 
 **proof:**
 
@@ -63,7 +63,7 @@ log<sub>a</sub> (xy)=log<sub>a</sub> x - log<sub>a</sub> y
 
 **3) Power Rules:**
 
-**i) log<sub>b</sub> (a^m)= m log<sub>b</sub> a**
+**i) log<sub>b</sub> $a^m$ = m log<sub>b</sub> a**
 
 **Proof:**
 
@@ -89,7 +89,7 @@ substitute x=log<sub>b</sub> a back in the equation and interchanging
 
 log<sub>b</sub> a<sup>m</sup> = m log<sub>b</sub> a
 
-**ii) log<sub>b<sup>n</sup></sub> a= 1/n log<sub>b</sub> a**
+**ii) log<sub>b<sup>n</sup></sub> a= $\frac{1}{n}$ log<sub>b</sub> a**
 
 **proof:**
 
@@ -117,7 +117,7 @@ interchanging and converting into logarithmic form
 
 substitute the value of x=log<sub>b<sup>n</sup></sub> a and use logarithmic property log<sub>b</sub> a<sup>m</sup>= m log<sub>b</sub> a
 
-log<sub>b<sup>n</sup></sub> a=1/n log<sub>b</sub> a
+log<sub>b<sup>n</sup></sub> a= $\frac{1}{n}$ log<sub>b</sub> a
 
 **4) log of 1 rule: log<sub>b</sub> 1=0**
 
@@ -131,7 +131,7 @@ convert this into logarithmic form
 
 0=<sub>b</sub> 1
 
-**5) Change of Base Rule: log<sub>b</sub> a= log<sub>x</sub> a/ log<sub>x</sub> b**
+**5) Change of Base Rule: log<sub>b</sub> a= $\frac{log_x a}{log_x b}$**
 
 **Proof:**
 
@@ -145,19 +145,19 @@ Substituting in the Left hand side of the to solve into right hand side of the R
 
 L.H.S. : log<sub>b</sub> a= log<sub>x<sup>n</sup></sub> x<sup>m</sup>
 
-Using the power rule: log<sub>n<sup>q</sup></sub> a<sup>p</sup>=p/q log_b a
+Using the power rule: log<sub>n<sup>q</sup></sub> a<sup>p</sup>= $\frac{p}{q}$ $log_b$ a
 	
-log<sub>b</sub> a=p/q log<sub>x</sub> x
+log<sub>b</sub> a= $\frac{p}{q}$ log<sub>x</sub> x
 
 Using the Rule log<sub>a</sub> a=1
 	
-Log<sub>b</sub> a=p/q
+Log<sub>b</sub> a= $\frac{p}{q}$
 
-Substituting the assumed p=log_x a,  q=log_x b
+Substituting the assumed p= $log_x$ a,  q= $log_x$ b
 
-Log<sub>b</sub> a=log<sub>x</sub> a/log<sub>x</sub> b
+Log<sub>b</sub> a= $\frac{log_x a}{log_x b}$
 
-**6) log<sub>b</sub> $\frac{1}{a}$=log<sub>$\frac{1}{b}$</sub> a= -log<sub>b</sub> a**
+**6) log<sub>b</sub> $\frac{1}{a}$ =log<sub>$\frac{1}{b}$</sub> a= -log<sub>b</sub> a**
 
 **Proof:**
 
@@ -165,9 +165,9 @@ i) Log<sub>b</sub> (1/a)=log<sub>b</sub> a<sup>-1</sup>
 
 Using the property log<sub>a</sub> b<sup>m</sup>=m log<sub>a</sub> b =-log<sub>b</sub> a
 
-ii) log<sub>$\frac{1}{b}$</sub> a=log<sub>b<sup-1</sup></sub> a
+ii) log<sub>$\frac{1}{b}$</sub> a=log<sub>$b^{-1}$</sub> a
 
-log<sub>b</sub> $\frac{1}{a}$=log<sub>$\frac{1}{b}$</sub> a= -log<sub>b</sub> a  
+log<sub>b</sub> $\frac{1}{a}$ =log<sub>$\frac{1}{b}$</sub> a= -log<sub>b</sub> a  
 
 
 
