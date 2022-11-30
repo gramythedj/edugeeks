@@ -14,7 +14,7 @@ To prove this identity let us use pythagoras theorem. consider a right angled tr
 
 According to pythagoras theorem we can write
 
-[triangle ABC](https://pixabay.com/images/id-7627070/)
+[triangle ABC](https://cdn.pixabay.com/photo/2022/11/30/15/38/triangle-7627070_960_720.jpg)
 
 $AB^2$ + $BC^2$ = $AC^2$
 
