@@ -6,16 +6,29 @@ url: /trigonometric-identities/
 mathjax: true
 ---
 
-** $sin^2$ x + $cos^2$ x = 1**
+**1) $sin^2$ x + $cos^2$ x = 1**
 
 **proof:**
 
-Let us consider a triangle ABC as shown in the figure of side lengths a, b, c and X be the angle at vertex A and right angle at C. From this we can understand that side BC is opposite side to angle x and side AC is adjacent side and AB is the hypotenuse.
+To prove this identity let us use pythagoras theorem. consider a right angled triangle as shown in the figure. It is a triangle ABC with right angle at the vertex B and angle x at vertex C.
 
-To prove the indentity let's consider the left hand side of the equation to evaluate that it is equal to the right hand side.
+According to pythagoras theorem we can write
 
-L.H.S:
-= $sin^2$ x + $cos^2$ x
+$AB^2$ + $BC^2$ = $AC^2$
 
-by definition sin x = $\frac{opposite side to angle x}{hypotenuse}$ and cos x = $\frac{adjacent side to angle x}{hypotenuse}$
+Divide with $AC^2$ on both sides.
 
+$\frac{AB^2+BC^2}{AC^2}$ = 1
+
+$\frac{AB^2}{AC^2}$ + $\frac{BC^2}{AC^2}$ = 1
+
+by definition sin x = $\frac{opposite side to angle x}{hypotenuse}$ = $\frac{AB}{AC}$ and cos x = $\frac{adjacent side to angle x}{hypotenuse}$ = $\frac{CB}{AC}$
+
+Therefore $sin^2$ x + $cos^2$ x = 1
+
+
+**I) Practice problems**
+
+1) If sin x = $\frac{4}{5}$ find the value of cos x provided x is acute angle.
+2) find the value of $sin^2$ $50^0$ + $sin^2$ $40^0$
+3) find th value of $sin^2$ $18^0$ + $sin^2$ $72^0$ + $sin^2$ $108^0$ + $sin^2$ $162^0$
