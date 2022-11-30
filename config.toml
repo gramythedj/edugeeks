@@ -10,6 +10,8 @@ enableMissingTranslationPlaceholders = true
 
 enableRobotsTXT = true
 
+custom_css = ["css/custom.css"]
+
 # Will give values to .Lastmod etc.
 enableGitInfo = true
 
