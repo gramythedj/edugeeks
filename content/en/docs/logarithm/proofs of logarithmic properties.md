@@ -2,11 +2,14 @@
 title: "Proofs of Logarithmic properties"
 date: 27-11-2022
 weight: 2
-markup: 'mmark'
-math: false
+
 ---
 
-$x = {-b \pm \sqrt{b^2-4ac} \over 2a}$
+$$ E=mc^2 $$
+
+\\[ E=mc^2 \therefore E_{\rm rel} = \sqrt{ (m_0 c^2)^2 + (pc)^2 } \,\! \\]
+
+$$ \mathop {\lim }\limits\_{x \to c} \frac{{f\left( x \right)}}{{g\left( x \right)}} = \mathop {\lim }\limits\_{x \to c} \frac{{f'\left( x \right)}}{{g'\left( x \right)}} $$
 
 
 

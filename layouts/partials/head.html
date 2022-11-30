@@ -13,7 +13,7 @@
 <meta name="robots" content="noindex, nofollow">
 {{ end -}}
 
-{{ if .Params.math }}{{ partial "katex.html" . }}{{ end }}
+
 <!-- include our custom Kubeflow "seo_schema" partial -->
 {{ partial "seo_schema" . }}
 
@@ -47,7 +47,32 @@
 <link rel="stylesheet" href="{{ "/css/prism.css" | relURL }}"/>
 {{ end -}}
 
+
+
+
 {{ partial "hooks/head-end.html" . -}}
+
+<!-- This part includes the Javascript file -->
+<script type="text/javascript" id="MathJax-script" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
+<!-- this part configures it -->
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\[','\]']],
+    processEscapes: true,
+    processEnvironments: true,
+    skipTags: ['script', 'noscript', 'style', 'textarea', 'pre'],
+    TeX: { equationNumbers: { autoNumber: "AMS" },
+         extensions: ["AMSmath.js", "AMSsymbols.js"] }
+  }
+});
+</script>
+
+
 
 {{/* To comply with GDPR, cookie consent scripts places in head-end must execute before Google Analytics is enabled */ -}}
 {{ if hugo.IsProduction -}}
