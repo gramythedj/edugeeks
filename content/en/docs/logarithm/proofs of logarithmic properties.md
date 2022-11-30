@@ -109,7 +109,7 @@ use exponential property
 
 a=(b<sup>x</sup>)<sup>n</sup>
 
-use the property if a<sup>m</sup>=b then a=b<sup>$\frac{1}{m}$</sup> from exponents we can write the above equation as follows
+use the property if \\[ a<sup>m</sup>=b then a=b<sup>$\frac{1}{m}$</sup> \\] from exponents we can write the above equation as follows
 
 a<sup>$\frac{1}{n}$</sup>=b<sup>x</sup>
 
@@ -171,7 +171,7 @@ Using the property log<sub>a</sub> b<sup>m</sup>=m log<sub>a</sub> b =-log<sub>b
 
 ii) log<sub>$\frac{1}{b}$</sub> a=log<sub>b<sup-1</sup></sub> a
 
-log<sub>b</sub> $\frac{1}{a}$=log<sub>$\frac{1}{b}$</sub> a= -log<sub>b</sub> a
+log<sub>b</sub> $\frac{1}{a}$=log<sub>$\frac{1}{b}$</sub> a= -log<sub>b</sub> a  
 
 
 
