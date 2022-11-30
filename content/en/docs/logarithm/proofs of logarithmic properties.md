@@ -5,11 +5,7 @@ weight: 2
 mathjax: true
 ---
 
-$$ E=mc^2 $$
 
-\\[ E=mc^2 \therefore E_{\rm rel} = \sqrt{ (m_0 c^2)^2 + (pc)^2 } \,\! \\]
-
-$$ \mathop {\lim }\limits\_{x \to c} \frac{{f\left( x \right)}}{{g\left( x \right)}} = \mathop {\lim }\limits\_{x \to c} \frac{{f'\left( x \right)}}{{g'\left( x \right)}} $$
 
 
 
