@@ -1,7 +1,7 @@
 ---
 date: 2022-12-01
 title: "TSPSC Group 4 notification"
-linkTitle: "Announcing Docsy"
+linkTitle: "TSPSC Group 4"
 description: "TSPSC Group 4 notification released by TSPSC Board"
 author: Admin ([@crybird4](https://twitter.com/))
 resources:
@@ -41,22 +41,22 @@ Exam date and online registration date for TSPSC Group 4 Exam 2022 will be annou
 
 A total of 9168 vacancies have been announced by Telangana State Civil Service Commission for TNPSC Group 4 services. However, the number of vacancies will be temporary. We will update you with details of vacancies by category once detailed notice is released. The positions where the TSPSC Group 4 exam must be taken are:
 
-Lower Assistant (Panchayati Raj)
-Assistant Assistant (Commercial Tax Department)
-junior accountant
-Junior Steno (Department of Revenue)
-Typist (Revenue)
-Junior Assistant (Revenue Department)
-Typist (Panchhayati Raj)
-Assistant Assistant (Ministry of the Interior)
-Junior Steno (Department of Internal Affairs)
-Typist (Ministry of Interior)
-Junior Assistant (I&CAD)
-Junior Stenon (I&CAD)
-Typist (Fire and Disaster Response Service)
-Junior Steno (Fire and Disaster Response Service)
-Subordinate Assistant (Telangana Vaidya Vidhana Parishad)
-Junior Assistant (Director of Medical Education)
+Lower Assistant (Panchayati Raj),
+Assistant Assistant (Commercial Tax Department),
+junior accountant,
+Junior Steno (Department of Revenue),
+Typist (Revenue),
+Junior Assistant (Revenue Department),
+Typist (Panchhayati Raj),
+Assistant Assistant (Ministry of the Interior),
+Junior Steno (Department of Internal Affairs),
+Typist (Ministry of Interior),
+Junior Assistant (I&CAD),
+Junior Stenon (I&CAD),
+Typist (Fire and Disaster Response Service),
+Junior Steno (Fire and Disaster Response Service),
+Subordinate Assistant (Telangana Vaidya Vidhana Parishad),
+Junior Assistant (Director of Medical Education),
 Subordinate Assistant (Forestry Department)
 
 
