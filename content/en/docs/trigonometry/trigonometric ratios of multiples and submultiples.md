@@ -1,8 +1,8 @@
 ---
-title: "Trigonometric ratios of multiples"
+title: "Trigonometric ratios of multiples of Angle"
 date: 01-12-2022
 weight: 2
-url: /Trigonometric-ratios-of-multiples/
+url: /Trigonometric-ratios-of-multiples-of-angle/
 mathjax: true
 ---
 
