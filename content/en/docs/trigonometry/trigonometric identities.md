@@ -37,3 +37,43 @@ Therefore $sin^2$ x + $cos^2$ x = 1
 
 Solutions at the end of the article.
 
+**2) $sec^2$ x - $tan^2$ x =1**
+
+**proof:**
+
+To prove this identity let us use pythagoras theorem. consider a right angled triangle as shown in the figure. It is a triangle ABC with right angle at the vertex B and angle x at vertex C.
+
+![triangle ABC](https://cdn.pixabay.com/photo/2022/11/30/15/38/triangle-7627070_960_720.jpg)
+
+According to pythagoras theorem we can write
+
+$AB^2$ + $BC^2$ = $AC^2$
+
+Divide with $BC^2$ on both sides, so that we can get tan x and sec x functions in the equation.
+
+$\frac{AB^2}{BC^2}$ + 1 = $\frac{AC^2}{BC^2}$
+
+by definition tan x = $\frac{opposite\ side\ to\ angle\ x}{adjacent\ side\ to\ angle\ x}$ = $\frac{AB}{BC}$ and sec x = $\frac{hypotenuse}{adjacent\ side\ to\ angle\ x}$ = $\frac{AC}{BC}$
+
+Therefore $tan^2$ x + 1 = $sec^2$ x 
+
+**3) $cosec^2$ x - $cot^2$ x =1**
+
+**proof:**
+
+To prove this identity let us use pythagoras theorem. consider a right angled triangle as shown in the figure. It is a triangle ABC with right angle at the vertex B and angle x at vertex C.
+
+![triangle ABC](https://cdn.pixabay.com/photo/2022/11/30/15/38/triangle-7627070_960_720.jpg)
+
+According to pythagoras theorem we can write
+
+$AB^2$ + $BC^2$ = $AC^2$
+
+Divide with $AB^2$ on both sides, so that we can get tan x and sec x functions in the equation.
+
+$\frac{BC^2}{AB^2}$ + 1 = $\frac{BC^2}{AC^2}$
+
+by definition cot x = $\frac{adjacent\ side\ to\ angle\ x}{opposite\ side\ to\ angle\ x}$ = $\frac{BC}{AB}$ and cosec x = $\frac{hypotenuse}{opposite\ side\ to\ angle\ x}$ = $\frac{BC}{AC}$
+
+Therefore  $cosec^2$ x - $cot^2$ x =1
+
