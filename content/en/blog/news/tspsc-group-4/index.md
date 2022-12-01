@@ -2,7 +2,7 @@
 date: 2018-10-06
 title: "TSPSC Group 4 notification"
 linkTitle: "Announcing Docsy"
-description: "tspsc group 4 notification released by Tspsc Board"
+description: "TSPSC Group 4 notification released by TSPSC Board"
 author: Admin ([@crybird4](https://twitter.com/))
 resources:
 - src: "**.{png,jpg}"
@@ -17,17 +17,23 @@ resources:
 
 Government of Telangana has announced more than 11,000 vacancies to be filled for TSPSC services for fiscal year 2022-23, of which 9,168 vacancies are notified for TSPSC Group 4 services.
 ![tspsc](https://assets.thehansindia.com/h-upload/2022/03/26/1283747-tspsc.webp)
+
  Telangana State Telangana State is the body established under the Constitution of India to select qualified candidates for various civil service jobs in the Indian state of Telangana.
+
+
  The online registration process for the TSPSC Group 4 Exam 2022 will begin with the official announcement. The selection of qualified candidates for TSPSC Group C services will be through a computerized test and a series of interviews conducted by the TSPSC.
 
-Notification  of TSPSC Group 4 in 2022
+## Notification  of TSPSC Group 4 in 2022
 On November 25, 2022, Telangana Govt. announced the recruitment of TSPSC Groups 2, 3 and 4 in 2022. According to the announcement, TSPSC Group 4 announcements could be announced at any time in the coming days. The Telangana Public Service Commission will publish the TSPSC Group 4 Notice 2022 pdf on the Commission's official website at https:
-//tspsc.gov.in/ in December 2022. TSPSC's Group 4 Assessment Notice will have full details on the recruitment process including eligibility criteria, application process, process options, salary, exam format and other information.
+//tspsc.gov.in/ in December 2022. 
+
+TSPSC's Group 4 Assessment Notice will have full details on the recruitment process including eligibility criteria, application process, process options, salary, exam format and other information.
  Bookmark this page if you are waiting for the TSPSC Group 4 announcement and continue to visit us for all the latest updates. TSPSC Group 4 Recruitment 2022- Overview
+
 Although the TSPSC Group 4 2022 announcement has not been published yet, interested candidates can know the summary of the TSPSC Group 4 2022 exam as shown in the table below.
 
 
-TSPSC Group 4 Exam Dates 2022
+## TSPSC Group 4 Exam Dates 2022
 Exam date and online registration date for TSPSC Group 4 Exam 2022 will be announced by Telangana State Public Service Commission (TSPSC) with announcement in December 2022. TSPSC Group 4 Exam 2022 will be held updated here as soon as officials announced the date on the official website.
 
 
@@ -61,7 +67,7 @@ Candidates who meet the eligibility requirements for the TSPSC Group 4 Exam must
 
 ### Application Fee for TSPSC Group 4
 
-|
+
 |**Category**  | **Fees**  |
 |--|--|
 |General  |Rs. (200 + 80)= Rs. 280  |
