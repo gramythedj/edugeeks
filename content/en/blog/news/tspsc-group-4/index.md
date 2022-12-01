@@ -1,5 +1,5 @@
 ---
-date: 2018-10-06
+date: 2022-12-01
 title: "TSPSC Group 4 notification"
 linkTitle: "Announcing Docsy"
 description: "TSPSC Group 4 notification released by TSPSC Board"
