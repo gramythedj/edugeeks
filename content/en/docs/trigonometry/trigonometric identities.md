@@ -139,3 +139,71 @@ $sin^2$ $18^0$ + $sin^2$ $72^0$ + $sin^2$ $108^0$ + $sin^2$ $162^0$
 use the identity of trigonometry $sin^2$ x + $cos^2$ x = 1
 
 = 2
+
+**II)**
+
+1) Ans= $\frac{15}{17}$
+
+**Sol:**
+
+given sec A+tan A=4
+
+let's use the trigonometric identity 
+
+$sec^2$ x - $tan^2$ x =1
+
+use the algebraic equation $a^2-b^2$=(a+b)(a-b)
+
+(sec A + tan A)(Sec A - tan A) =1
+
+4*(Sec A - tan A) =1
+
+Sec A - tan A = $\frac{1}{4}$
+
+adding the two equations
+
+(Sec A + tan A)+(Sec A - tan A)= 4+ $\frac{1}{4}$
+
+sec A = $\frac{17}{8}$
+
+similarly subtracting the two equations
+
+(Sec A + tan A)-(Sec A - tan A) = 4- $\frac{1}{4}$
+
+tan A = $\frac{15}{8}$
+
+on divinding tan A with sec A we get sin A
+
+sin A = $\frac{15}{8}$ * $\frac{8}{17}$
+
+sin A = $\frac{15}{17}$
+
+2)
+
+**Sol:**
+
+Consider LHS
+
+$\frac{tan\ A+sec\ A -1}{tan\ A-sec\ A +1}$
+
+multiply and divide the fraction with $tan\ A+sec\ A +1$
+
+= $\frac{ \[ (tan\ A+sec\ A) -1 \]\[(tan\ A+sec\ A) +1 \]}{\[(tan\ A+1)-sec\ A\]\[(tan\ A+1) +sec\ A\]}$
+
+= $\frac{ (tan\ A+sec\ A)^2 -1}{(tan\ A+1)^2-sec^2\ A}$
+
+= $\frac{tan^2\ A+ sec^2\ A+2tan\ A sec\ A -1}{tan^2\ A+2tan\ A+1-sec^2\ A}$
+
+use the trigonometric identity $sec^2$ x - $tan^2$ x =1 which can also be written as $sec^2$ x -1= $tan^2$ x
+
+= $\frac{2tan^2\ A +2tan\ A sec\ A}{2tan\ A+1-1}$
+
+= tan A + sec A
+
+= $\frac{sin\ A}{cos\ A}$ +  $\frac{1}{cos\ A}$
+
+= $\frac{1+sin\ A}{cos\ A}$
+
+**III)**
+
+1) 
