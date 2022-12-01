@@ -206,4 +206,39 @@ use the trigonometric identity $sec^2$ x - $tan^2$ x =1 which can also be writte
 
 **III)**
 
-1) 
+1) ans = 5
+**Sol:**
+
+(sin x + cosec x) $^2$ + (cos x + sex x) $^2$ - (tan x + cot x) $^2$
+
+= $sin^2$ x + $cosec^2$ x + 2+ $cos^2$ x+ $sec^2$ x+ 2 - $tan^2$ x - $cot^2$ x-2
+
+= ( $sin^2$ x + $cos^2$ x)+( $cosec^2$ x- $cot^2$ x) + ( $sec^2$ x- $tan^2$ x) + 2
+
+= 5
+
+2) ans= $\frac{3}{13}$
+
+**Sol:**
+
+Cosex A + Cot A = $\frac{2}{3}$
+
+let's use the trigonometric identity
+
+$cosec^2$ x - $cot^2$ x =1
+
+use the algebraic equation $a^2-b^2$=(a+b)(a-b)
+
+(Cosex A + Cot A)(Cosex A - Cot A)=1
+
+$\frac{2}{3}$ (Cosex A - Cot A)=1
+
+(Cosex A - Cot A)= $\frac{3}{2}$
+
+add both the equations
+
+(Cosex A + Cot A)+(Cosex A - Cot A)= $\frac{2}{3}$ + $\frac{3}{2}$
+
+cosec A = $\frac{13}{3}$
+
+sin A = $\frac{3}{13}$
