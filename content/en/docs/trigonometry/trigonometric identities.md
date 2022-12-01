@@ -24,7 +24,7 @@ $\frac{AB^2+BC^2}{AC^2}$ = 1
 
 $\frac{AB^2}{AC^2}$ + $\frac{BC^2}{AC^2}$ = 1
 
-by definition sin x = $\frac{opposite_ side_ to _ angle _ x}{hypotenuse}$ = $\frac{AB}{AC}$ and cos x = $\frac{adjacent _ side _ to _ angle _ x}{hypotenuse}$ = $\frac{CB}{AC}$
+by definition sin x = $\frac{opposite\ side\ to \ angle\ x}{hypotenuse}$ = $\frac{AB}{AC}$ and cos x = $\frac{adjacent \ side \ to\ angle \ x}{hypotenuse}$ = $\frac{CB}{AC}$
 
 Therefore $sin^2$ x + $cos^2$ x = 1
 
