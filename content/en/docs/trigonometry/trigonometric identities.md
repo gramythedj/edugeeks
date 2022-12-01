@@ -57,6 +57,13 @@ by definition tan x = $\frac{opposite\ side\ to\ angle\ x}{adjacent\ side\ to\ a
 
 Therefore $tan^2$ x + 1 = $sec^2$ x 
 
+**II) solve the following problem**
+
+1) If sec A + tan A = 4, find the value of sin A.
+2) Prove that $\frac{tan\ A+sec\ A -1}{tan\ A-sec\ A +1}$ = $\frac{1+sin\ A}{cos\ A}$
+
+Solutions at the end of the article.
+
 **3) $cosec^2$ x - $cot^2$ x =1**
 
 **proof:**
@@ -76,4 +83,11 @@ $\frac{BC^2}{AB^2}$ + 1 = $\frac{BC^2}{AC^2}$
 by definition cot x = $\frac{adjacent\ side\ to\ angle\ x}{opposite\ side\ to\ angle\ x}$ = $\frac{BC}{AB}$ and cosec x = $\frac{hypotenuse}{opposite\ side\ to\ angle\ x}$ = $\frac{BC}{AC}$
 
 Therefore  $cosec^2$ x - $cot^2$ x =1
+
+**III) solve the following**
+
+1) find the value of (sin x + cosec x) $^2$ + (cos x + sex x) $^2$ - (tan x + cot x) $^2$
+2) If Cosex A + Cot A = $\frac{2}{3}$ find the value of Sin A
+
+Solutions at the end of the article.
 
