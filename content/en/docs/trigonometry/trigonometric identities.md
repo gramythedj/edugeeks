@@ -91,3 +91,51 @@ Therefore  $cosec^2$ x - $cot^2$ x =1
 
 Solutions at the end of the article.
 
+**Solutions**
+
+**I)**
+
+1) ans= $\frac{3}{5}$
+
+**sol:**
+Given Sin x = $\frac{4}{5}$
+
+using the identity of trigonometry 
+
+$sin^2$ x + $cos^2$ x = 1
+
+$\frac{4^2}{5^2}$ + $cos^2$ x = 1
+
+$cos^2$ x = $\frac{9}{25}$
+
+cos x = + $\frac{3}{5}$ or - $\frac{3}{5}$
+
+2) ans= 1
+
+**sol:**
+
+$sin^2$ $50^0$ + $sin^2$ $40^0$
+
+= $sin^2$ $50^0$ + $sin^2$ $(90^0-50^0)$
+
+= $sin^2$ $50^0$ + $cos^2$ $50^0$
+
+use the identity of trigonometry $sin^2$ x + $cos^2$ x = 1
+
+= 1
+
+3) ans= 2
+
+**sol:**
+
+$sin^2$ $18^0$ + $sin^2$ $72^0$ + $sin^2$ $108^0$ + $sin^2$ $162^0$
+
+= $sin^2$ $18^0$ + $sin^2$ $72^0$ + $sin^2$ $(90^0+18^0)$ + $sin^2$ $(90^0+72^0)$
+
+= $sin^2$ $18^0$ + $sin^2$ $72^0$ + $cos^2$ $18^0$ + $cos^2$ $72^0$
+
+= ($sin^2$ $18^0$ + $cos^2$ $18^0$ ) + ( $sin^2$ $72^0$ + $cos^2$ $72^0$ )
+
+use the identity of trigonometry $sin^2$ x + $cos^2$ x = 1
+
+= 2
