@@ -1,7 +1,7 @@
 ---
 title: "Trigonometric ratios of multiples"
-date: 30-11-2022
-weight: 1
+date: 01-12-2022
+weight: 2
 url: /Trigonometric-ratios-of-multiples/
 mathjax: true
 ---
@@ -10,14 +10,19 @@ If A an angle, then its integral multiples 2A, 3A, 4A..... are called multiple a
  
 **Trigonometric ratios of Multiple angles of A Formulae**
 
-1)Sin 2A=2Sin A cos A
-2) cos 2A = $cos^2$ A - $sin^2$ A = 2$cos^2$ A-1 = 1- $sin^2$ A
-3) tan 2A = $\fran{2tan\ A}{1-tan^2\ A}$
-4) cot 2A = $\fran{cot^2\ A-1}{2cot\ A}$
-5) Sin 2A = $\fran{2tan\ A}{1+tan^2\ A}$
-6) cos 2A = $\fran{1-tan^2\ A}{1+tan^2\ A}$
+1) Sin 2A = 2Sin A cos A
 
-**Sin 2A=2Sin A cos A**
+2) cos 2A = $cos^2$ A - $sin^2$ A = 2 $cos^2$ A-1 = 1- $sin^2$ A
+
+3) tan 2A = $\frac{2tan\ A}{1-tan^2\ A}$
+ 
+4) cot 2A = $\frac{cot^2\ A-1}{2cot\ A}$
+ 
+5) Sin 2A = $\frac{2tan\ A}{1+tan^2\ A}$
+ 
+6) cos 2A = $\frac{1-tan^2\ A}{1+tan^2\ A}$
+
+**1) Sin 2A = 2Sin A cos A**
 
 **Proof:**
 
@@ -32,7 +37,7 @@ Sin 2A = sin A cos A + cos A sin A
 Sin 2A = 2sin A cos A
 
 
-**cos 2A = $cos^2$ A - $sin^2$ A = 2$cos^2$ A-1 = 1- $sin^2$ A**
+**2) cos 2A = $cos^2$ A - $sin^2$ A = 2$cos^2$ A-1 = 1- $sin^2$ A**
 
 **Proof:**
 
@@ -61,7 +66,7 @@ Cos 2A = 2 $cos^2$ A -1
 Therefore cos 2A = $cos^2$ A - $sin^2$ A = 2$cos^2$ A-1 = 1- $sin^2$ A
 
 
-**tan 2A = $\fran{2tan\ A}{1-tan^2\ A}$**
+**3) tan 2A = $\frac{2tan\ A}{1-tan^2\ A}$**
 
 **Proof:**
 
@@ -75,23 +80,23 @@ Divide $cos^2$ A on both numerator and denominator.
 
 tan 2A = $\frac{\frac{2Sin\ A cos\ A}{cos^2\ A}}{\frac{cos^2\ A - sin^2\ A}{cos^2\ A }}$
 
-tan 2A = $\fran{2tan\ A}{1-tan^2\ A}$
+tan 2A = $\frac{2tan\ A}{1-tan^2\ A}$
 
-**cot 2A = $\fran{cot^2\ A-1}{2cot\ A}$**
+**4) cot 2A = $\frac{cot^2\ A-1}{2cot\ A}$**
 
 **Proof:**
 
 Cot 2A = $\frac{1}{tan\ 2A}$
 
-Using tan 2A = $\fran{2tan\ A}{1-tan^2\ A}$ formula
+Using tan 2A = $\frac{2tan\ A}{1-tan^2\ A}$ formula
 
-Cot 2A = $\fran{1-tan^2\ A}{2tan\ A}$
+Cot 2A = $\frac{1-tan^2\ A}{2tan\ A}$
 
-= $\fran{1-\frac{1}{cot^2\ A}}{2\frac{1}{cot\ A}}$
+= $\frac{1-\frac{1}{cot^2\ A}}{2\frac{1}{cot\ A}}$
 
-cot 2A = $\fran{cot^2\ A-1}{2cot\ A}$
+cot 2A = $\frac{cot^2\ A-1}{2cot\ A}$
 
-**Sin 2A = $\fran{2tan\ A}{1+tan^2\ A}$**
+**5) Sin 2A = $\frac{2tan\ A}{1+tan^2\ A}$**
 
 *Proof:**
 
@@ -101,15 +106,15 @@ Sin 2A=2Sin A cos A
 
 Use trigonometric identity $cos^2$ A + $sin^2$ A =1
 
-Sin 2A = $\frac{2Sin\ A cos\ A}{cos^2\ A + sin^2\ A}
+Sin 2A = $\frac{2Sin\ A cos\ A}{cos^2\ A + sin^2\ A}$
 
 Divide with $cos^2$ A on numerator and denominator
 
-Sin 2A = $\frac{\frac{2Sin\ A cos\ A}{cos^2\ A}{\frac{cos^2\ A + sin^2\ A}{cos^2\ A} }$
+Sin 2A = $\frac{\frac{2Sin\ A cos\ A}{cos^2\ A}}{\frac{cos^2\ A + sin^2\ A}{cos^2\ A} }$
 
-Sin 2A = $\fran{2tan\ A}{1+tan^2\ A}$
+Sin 2A = $\frac{2tan\ A}{1+tan^2\ A}$
 
-**cos 2A = $\fran{1-tan^2\ A}{1+tan^2\ A}$**
+**6) cos 2A = $\frac{1-tan^2\ A}{1+tan^2\ A}$**
 
 **Proof:**
 
@@ -125,4 +130,4 @@ Divide with $cos^2$ A on numerator and denominator
 
 Cos 2A = $\frac{\frac{cos^2\ A-sin^2\ A}{cos^2\ A}}{\frac{cos^2\ A+sin^2\ A}{cos^\ A}}$
 
-Cos 2A =  $\fran{1-tan^2\ A}{1+tan^2\ A}$
+Cos 2A =  $\frac{1-tan^2\ A}{1+tan^2\ A}$
