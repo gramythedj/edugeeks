@@ -1,5 +1,5 @@
 ---
-title: "Trigonometric ratios of multiples of Angle"
+title: "Trigonometric ratios of multiple of Angle-2A"
 date: 01-12-2022
 weight: 2
 url: /Trigonometric-ratios-of-multiples-of-angle/
