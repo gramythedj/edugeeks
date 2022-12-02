@@ -4,6 +4,7 @@ title: "TSPSC Group 4 notification"
 linkTitle: "TSPSC Group 4"
 description: "TSPSC Group 4 notification released by TSPSC Board"
 author: Admin ([@crybird4](https://twitter.com/))
+url: /TSPSC-Group-4-notification/
 resources:
 - src: "**.{png,jpg}"
   title: "Image #:counter"
