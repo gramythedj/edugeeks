@@ -59,3 +59,34 @@ cos 3A = 2 $cos^3 A$ -cos A +2(1- $cos^2$ A) cos A
 
 Cos 3A = 4 $cos^3$ A - 3cos A
 
+**3) tan 3A = $\frac{3tan\ A-tan^3\ A}{1-3tan^2\ A}$**
+
+**Proof:**
+
+tan 3A = tan(A+2A)
+
+use compund angle formula of sine function, i.e. tan(A+B) = $\frac{tan\ A+tan\ B}{1-tan\ Atan\ B}$
+
+tan 3A = $\frac{tan\ A+tan\ 2A}{1-tan\ Atan\ 2A}$
+
+use the formula tan 2A = $\frac{2tan\ A}{1-tan^2\ A}$
+
+tan 3A = $\frac{tan\ A+\frac{2tan\ A}{1-tan^2\ A}}{1-tan\ A\frac{2tan\ A}{1-tan^2\ A}}$
+
+tan 3A = $\frac{3tan\ A-tan^3\ A}{1-3tan^2\ A}$
+
+**4) cot 3A = $\frac{3cot\ A-cot^3\ A}{1-3cot^\ A}$**
+
+**Proof:**
+
+cot 3A = cot(A+2A)
+
+use compund angle formula of sine function, i.e. cot(A+B) = $\frac{cot\ A cot\ B-1}{cot\ A+cot\ B}$
+
+cot 3A = $\frac{cot\ A cot\ 2A-1}{cot\ A+cot\ 2A}$
+
+use the formula cot 2A = $\frac{cot^2\ A-1}{2cot\ A}$
+
+cot 3A = $\frac{cot\ A \frac{cot^2\ A-1}{2cot\ A}-1}{cot\ A+\frac{cot^2\ A-1}{2cot\ A}}$
+
+cot 3A = $\frac{3cot\ A-cot^3\ A}{1-3cot^\ A}$
