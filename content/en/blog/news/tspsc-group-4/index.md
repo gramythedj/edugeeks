@@ -6,10 +6,8 @@ description: "TSPSC Group 4 notification released by TSPSC Board"
 author: Admin ([@crybird4](https://twitter.com/))
 url: /TSPSC-Group-4-notification/
 resources:
-- src: /blog/news/tspsc-group-4/tspsc.jpg
+- src: "**.{png,jpg}"
   title: "Image #:counter"
-  params:
-    byline: "Photo: TSPSC "
 ---
 
 
