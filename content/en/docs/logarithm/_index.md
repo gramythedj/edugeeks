@@ -7,4 +7,3 @@ weight: 1
 
 
 
-<img src="/docs/images/profile.png">
