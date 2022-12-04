@@ -13,6 +13,9 @@ Where a is the number inside the logarithmic function and b is the base. And we 
 
 Symbolically the above example can be represented as: Log<sub>2</sub> 8 =3
 
+
+<img src="/docs/images/untitled(1).png">
+
 **I) find the values for the following logarithms:**
 1) log<sub>3</sub> 27
 2) log<sub>10</sub> 100
