@@ -1,7 +1,7 @@
 ---
 title: "Trigonometric transformations from sum( or difference) to product and vice-versa"
 date: 04-12-2022
-weight: 4
+weight: 2
 url: /Trigonometric-transformations-from-sum(-or-difference)-to-product-and-vice-versa/
 mathjax: true
 ---
