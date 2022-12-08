@@ -18,7 +18,7 @@ Where **c** is the length of hypotenuse of a right angled triangle, while **a** 
 
 Consider the triangle ABC where $\angle$ B = $90^0$ as shown in the figure. Let's draw BD line segment such that BD is perpendicular to side AC creating two right angled triangles BDA and BDC
 
-<img src="/docs/images/pythagoras theorem.jpg" width="200" height="400">
+<img src="/docs/images/pythagoras theorem.jpg" width="400" height="600">
 
 Let’s compare \triangle ABC with $\triangle$ ABD
 
