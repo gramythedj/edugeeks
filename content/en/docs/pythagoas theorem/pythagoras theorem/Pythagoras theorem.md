@@ -5,9 +5,9 @@ weight: 1
 url: /Proof-of-Pythagoras-theorem/
 mathjax: true
 ---
-### Proof of Pythagoras theorem
 
-Statement: square of length hypotenuse of a right angled triangle is equal to the sum of squares of lengths other two sides
+
+**Statement:** square of length hypotenuse of a right angled triangle is equal to the sum of squares of lengths other two sides
 
 i.e. $c^2 = a^2+b^2$
 
@@ -20,7 +20,7 @@ Consider the triangle ABC where $\angle$ B = $90^0$ as shown in the figure. Let'
 
 <img src="/docs/images/pythagoras theorem.jpg">
 
-###### Let’s compare \triangle ABC with $\triangle$ ABD
+Let’s compare \triangle ABC with $\triangle$ ABD
 
 $\angle$ BAC = $\angle$ BAD
 
@@ -34,7 +34,7 @@ $\frac{AB}{AD}=\frac{AC}{AB}$
 
 AB $^2$ = AC AD   —---------(1)
 
-###### Let’s compare \triangle ABC with $\triangle$ BDC
+Let’s compare \triangle ABC with $\triangle$ BDC
 
 $\angle$ BCA = $\angle$ BCD
 
