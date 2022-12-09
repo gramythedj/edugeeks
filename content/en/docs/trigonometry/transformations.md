@@ -3,6 +3,7 @@ title: "Trigonometric transformations from sum( or difference) to product and vi
 date: 04-12-2022
 url: /trigonometric-transformations-from-sum-or-difference-to-product-and-vice-versa/
 mathjax: true
+---
 
 # Formulae
 
