@@ -7,8 +7,6 @@ mathjax: true
 
 
 
-
-
 **1) Product Rule: Log<sub>a</sub> xy = log<sub>a</sub> x+ log<sub>a</sub> y**
 
 **proof:**

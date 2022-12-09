@@ -19,6 +19,11 @@
 <meta name="robots" content="noindex, nofollow">
 {{ end -}}
 
+{{ if .Params.canonicalUrl }}
+<link rel="canonical" href="{{ .Params.canonicalUrl }}">
+{{ else }}
+<link rel="canonical" href="{{ .RelPermalink }}">
+{{ end }}
 
 <!-- include our custom Kubeflow "seo_schema" partial -->
 {{ partial "seo_schema" . }}
