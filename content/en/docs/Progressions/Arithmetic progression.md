@@ -33,7 +33,9 @@ Examples of AP
 
 4) 1,11,21,31,....
 
-### Let $S_n$ be the sum of first n terms of AP $a_1,a_2,a_3,.......a_n$ then $S_n$ = $\frac{n}{2}[2a+(n-1)t]$ = $\frac{n}{2}[a_1+a_n]$
+### Sum of first n terms of AP
+
+**statment:** Let $S_n$ be the sum of first n terms of AP $a_1,a_2,a_3,.......a_n$ then $S_n$ = $\frac{n}{2}[2a+(n-1)t]$ = $\frac{n}{2}[a_1+a_n]$
 
 **Proof:**
 
