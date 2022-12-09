@@ -1,5 +1,11 @@
+---
+title: "Arithmetic progression"
+date: 09-12-2022
+weight: 1
+url: /Arithmetic-progression/
+mathjax: true
+---
 
-### Arithmetic progression:
 
 A progression in which the difference between any two consecutive terms his always as same fixed quantity, such a progression is called **arithmetic progression** or simply **AP**. And the fixed difference is called common difference.
 
