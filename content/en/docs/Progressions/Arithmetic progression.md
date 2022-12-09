@@ -67,8 +67,8 @@ $$S_n = \frac{n}{2} [ 2a + t (n-1)]$$
 
 ### Points to be noted
 
-If every term in an AP is multiplied by a constant k then new series will also be in AP with common difference kt
-If every term in an AP is added with k then the new series will be in AP with common difference (k+t)
+1) If every term in an AP is multiplied by a constant k then new series will also be in AP with common difference kt
+2) If every term in an AP is added with k then the new series will be in AP with common difference (k+t)
 
 ### Arithmetic Mean (AM)
 
