@@ -1,13 +1,8 @@
 ---
 title: "Trigonometric transformations from sum( or difference) to product and vice-versa"
 date: 04-12-2022
-weight: 4
 url: /trigonometric-transformations-from-sum-or-difference-to-product-and-vice-versa/
 mathjax: true
----
-
-In this article we will learn the proofs of the sum or difference of cos (or sin) functions into the product of two trigonometric functions.
-
 
 # Formulae
 
