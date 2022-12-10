@@ -74,7 +74,7 @@ $$S_n = \frac{n}{2} [ 2a + t (n-1)]$$
 
 ### Arithmetic Mean (AM)
 
-**Definition:** If $a_1, a_2, a_3, …..a_n$ are real numbers then $\frac{a_1 + a_2 + a_3 + ….. + a_n}{n}$ is called arithmetic mean of a_1, a_2, a_3, …..a_n.
+**Definition:** If $a_1, a_2, a_3, …..a_n$ are real numbers then $\frac{a_1 + a_2 + a_3 + ….. + a_n}{n}$ is called arithmetic mean of $a_1, a_2, a_3, …..a_n$.
 
 In such AM we can observe something interesting. AM of any two numbers make another AP
 
