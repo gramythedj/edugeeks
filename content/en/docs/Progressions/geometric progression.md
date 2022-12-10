@@ -61,3 +61,6 @@ $$ S_n= \frac{a(1- 0)}{1-r}$$
 
 $$ S_n= \frac{a}{1-r}$$
 
+### Geometric mean (GM):
+
+If  $a_1,a_2,a_3,.......a_n$ are positive numbers then $(a_1a_2a_3.......a_n)^{1/n}$ is called geometric mean of  $a_1,a_2,a_3,.......a_n$.
