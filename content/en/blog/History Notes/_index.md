@@ -1,6 +1,6 @@
 ---
 title: "History Notes for competitive Govt Exams"
-linkTitle: "News"
+linkTitle: "History"
 weight: 20
 ---
 

@@ -45,7 +45,7 @@ pygmentsStyle = "tango"
 
 # Configure how URLs look like per section.
 [permalinks]
-blog = "/:section/:year/:month/:day/:slug/"
+blog = "/:slug/"
 
 # Image processing configuration.
 [imaging]
