@@ -78,6 +78,28 @@ $$S_n = \frac{n}{2} [ 2a + t (n-1)]$$
 
 In such AM we can observe something interesting. AM of any two numbers make another AP
 
-i.e. if A is the AM of **a** and **b** then
+i.e. if A is the AM of **a** and **b** then a, A, b are in AP
 
-a, A, b are in AP
+###### If b is the AM of a and c then a, b, c are in AP
+
+**Proof:**
+
+Given b is the arithematic mean of a and c that means
+
+b = $\frac{a+c}{2}$
+
+for a, b ,c to be in AP the difference between adjacent terms must be equal i.e.
+
+b-a = c - b
+
+as b = $\frac{a+c}{2}$
+
+b-a = $\frac{a+c}{2}$ - a = $\frac{c-a}{2}$
+
+and c-b = c - $\frac{a+c}{2}$ = $\frac{c-a}{2}$
+
+we got b-a = c-b
+
+therefore a,b,c are in AP.
+
+
