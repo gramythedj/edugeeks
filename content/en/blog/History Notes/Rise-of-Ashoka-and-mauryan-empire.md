@@ -5,7 +5,7 @@ date: 2022-04-28 11:33:37
 tags:
   - upsc
 description: 'details of Ashoka the Great and his rules of Dhamma and Mauryan administration.'
-url: /blog/Rise-of-Ashoka-and-mauryan-empire/
+url: /Rise-of-Ashoka-and-mauryan-empire/
 ---
 
 ## Rise of Ashoka and Mauryans Administrations

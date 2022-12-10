@@ -8,7 +8,7 @@ description: 'Steps to follow for studying Economics for Upsc and other state Ex
 
 thumbnail: default/gpk.jpg
 thumbnailAlt: my thoughts
-url: /blog/economy-introduction/
+url: /economy-introduction/
 ---
 
 # Indian Economy - an Introduction

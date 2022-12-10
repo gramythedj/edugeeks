@@ -5,7 +5,7 @@ date: 2022-04-26 16:21:37
 tags:
   - upsc
 description: 'Magadha was a region in Bihar and one of the sixteen Mahajanapadas, and also the most dominant kingdom'
-url: /blog/Rise-of-magadha-empire-and-mahajanapadas/
+url: /Rise-of-magadha-empire-and-mahajanapadas/
 ---
 
 ## Rise of Magadha and Mahajanapadas

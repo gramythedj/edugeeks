@@ -5,7 +5,7 @@ date: 2022-04-27 17:21:37
 tags:
   - upsc
 description: '4th century English writers like Justin, Strabo, Plutarch, and Arien Wrote about Military strength of the Mauryan Empire'
-url: /blog/rise-of-mourya-and-their-historical-sources/
+url: /rise-of-mourya-and-their-historical-sources/
 ---
 
 
