@@ -1,7 +1,7 @@
 ---
 title: 'Important events after the Death the Buddha'
 author: 'Siachen team'
-date: 2022-04-26 9:20:37
+date: 2022-12-10 9:20:37
 tags:
   - upsc
 description: 'discussing some Major Buddhist council and splits in Buddhism and the downfall of Buddhism.'

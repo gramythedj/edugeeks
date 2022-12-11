@@ -1,7 +1,7 @@
 ---
 title: 'the dawn of Local Indian Content creators and Cultural Exploration'
 author: 'Aravind'
-date: 2022-05-25 21:18:37
+date: 2022-12-10 21:18:37
 tags:
   -  thoughts
 description: 'with the help of Internet, now India can protect and culturally flourish to its past glory.'

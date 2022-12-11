@@ -3,7 +3,7 @@ title: Geographical Data of India for Govt exams
 metaTitle: Geographical Data of India for Govt exams
 thumbnail: default/gpk.jpg
 thumbnailAlt: my thoughts
-date: 2022-07-18T14:57:37.601Z
+date: 2022-12-10T14:57:37.601Z
 tags:
   - upsc
 ---

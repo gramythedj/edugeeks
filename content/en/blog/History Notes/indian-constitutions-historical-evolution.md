@@ -3,7 +3,7 @@ title: Indian Constitution's Historical Evolution
 metaTitle: Indian Constitution's Historical Evolution
 thumbnail: default/gpk.jpg
 thumbnailAlt: my thoughts
-date: 2022-07-18T14:55:10.945Z
+date: 2022-12-10T14:55:10.945Z
 tags:
   - upsc
 ---

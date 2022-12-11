@@ -1,7 +1,7 @@
 ---
 title: 'Indian Economy - an Introduction'
 author: 'Siachen team'
-date: 2022-04-22 13:33:37
+date: 2022-12-10 13:33:37
 tags:
   - upsc
 description: 'Steps to follow for studying Economics for Upsc and other state Exams(groups).'

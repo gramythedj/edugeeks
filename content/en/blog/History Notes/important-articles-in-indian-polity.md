@@ -3,7 +3,7 @@ title: Important Articles in Indian Polity
 metaTitle: Important articles in Indian Polity
 thumbnail: default/gpk.jpg
 thumbnailAlt: my thoughts
-date: 2022-07-18T14:51:40.412Z
+date: 2022-12-10T14:51:40.412Z
 tags:
   - upsc
 ---

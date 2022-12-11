@@ -1,7 +1,7 @@
 ---
 title: 'Rise of Magadha empire and the 16 Mahajanapadas'
 author: 'Siachen Team'
-date: 2022-04-26 16:21:37
+date: 2022-12-10 16:21:37
 tags:
   - upsc
 description: 'Magadha was a region in Bihar and one of the sixteen Mahajanapadas, and also the most dominant kingdom'

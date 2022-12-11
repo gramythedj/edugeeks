@@ -1,7 +1,7 @@
 ---
 title: 'Rise of Ashoka and study of Mauryan Empire'
 author: 'Siachen Team'
-date: 2022-04-28 11:33:37
+date: 2022-12-10 11:33:37
 tags:
   - upsc
 description: 'details of Ashoka the Great and his rules of Dhamma and Mauryan administration.'

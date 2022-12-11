@@ -1,7 +1,7 @@
 ---
 title: 'Trade and commerce after the mauryan Empire'
 author: 'Siachen team'
-date: 2022-04-30 10:33:37
+date: 2022-12-10 10:33:37
 tags:
   - upsc
 description: ' Major reason was the diversion of silk route as it passed from India.'
