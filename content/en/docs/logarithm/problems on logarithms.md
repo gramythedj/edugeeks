@@ -111,3 +111,11 @@ VI) If log 2= x, log 3 =y then express the following in x and y
 9) log 2.5
 
 10) $log_7\ 3.5$
+
+VII) Solve the following equations
+
+1) $3^x$ - 1 =8
+2) $2^{2x}-2^x-6$=0
+3) $3^{1-x}=5^x$
+4) $3^{2x-1}+3{x+2}-18$=0
+5) $e^{2x}-2e^{x}-15$=0
