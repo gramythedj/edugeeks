@@ -1,8 +1,8 @@
 ---
-title: "Practice Problems on logarithms part 1"
+title: "Practice Problems on logarithms"
 date: 10-12-2022
 weight: 3
-url: /Practice-pproblems-on-logarithms-paert-1/
+url: /Practice-pproblems-on-logarithms/
 mathjax: true
 ---
 
@@ -90,7 +90,7 @@ V) Solve the following logarithmic equations
 
 6) $log_2\ x + log_2\ (x+3) = 1$
 
-VI) If log 2= x, log 3 =y and log 5 =z then express the following in x,y and z
+VI) If log 2= x, log 3 =y then express the following in x and y
 
 1) log 24
 
@@ -106,10 +106,16 @@ VI) If log 2= x, log 3 =y and log 5 =z then express the following in x,y and z
 
 7) log 0.2
 
-VII) If log 2= x, log 3 =y then express the following in x,y and z
+8) log 15
 
-1) log 15
+9) log 2.5
 
-2) log 2.5
+10) $log_7\ 3.5$
 
-3) $log_7\ 3.5$
+VII) Solve the following equations
+
+1) $3^x$ - 1 =8
+2) $2^{2x}-2^x-6$=0
+3) $3^{1-x}=5^x$
+4) $3^{2x-1}+3{x+2}-18$=0
+5) $e^{2x}-2e^{x}-15$=0
