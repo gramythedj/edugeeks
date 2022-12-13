@@ -1,8 +1,8 @@
 ---
-title: "Sine rule or Law of sines"
+title: "Sine rule or Laws of sine"
 date: 13-12-2022
 weight: 1
-url: /Sine-rule-or-Law-of-sines/
+url: /Sine-rule-or-Laws-of-sine/
 mathjax: true
 ---
 
