@@ -5,7 +5,9 @@ weight: 1
 url: /Proof-of-Pythagoras-theorem/
 mathjax: true
 ---
+(There are thousands of independent ways of proving the pythagoras theorem. It was discovered by many mathematicians before and after pythagoras independently. where as proofs are done in various methods. People are so fascinated about this theorem becasue it is so important theorem, because it is useful in almost every subject directly or indirectly)
 
+In this article we used one method to prove the theorem. hope yu find it intresting.
 
 **Statement:** square of length hypotenuse of a right angled triangle is equal to the sum of squares of lengths other two sides
 
