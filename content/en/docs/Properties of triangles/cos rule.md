@@ -30,7 +30,7 @@ It seems like a different form of Pythagoras theorem for every triangle doesn't 
 Let’s consider a $\triangle$ ABC as shown in the figure with a, b and c being the lengths of the sides BC, CA and AB. we can represent the triangle vectorically as
 shown in the diagram. That means $\vec{AB}$, $\vec{BC}$ and $\vec{AC}$ are forming the triangle so we can understand that | $\vec{AB}$ | = c, | $\vec{BC}$ | = a and | $\vec{AC}$ | =  b.
 
-<img src="/docs/images/cos rule image 2.jpg" width="400" height="600">
+<img src="/docs/images/cos rule image2.jpg" width="400" height="600">
 
 From the triangle we can write that
 
@@ -48,7 +48,7 @@ To find the angle between $\vec{AB}$ and $\vec{BC}$ lets extend the $\vec{AB}$ s
 
 (note: we extended the vector to find the angle between two vectors by not considering B as angle, because angle between two vectors is angle made by vectors when both heads meet or tails meet but not one tail and one head)
 
-<img src="/docs/images/cos rule image 4.jpg" width="400" height="600">
+<img src="/docs/images/cos rule image4.jpg" width="400" height="600">
 
 From the above figure we can find $\alpha$
 
