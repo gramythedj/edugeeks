@@ -22,7 +22,7 @@ Let's consider the $\triangle$ ABC as shown in the figure circumscribed. O is th
 
 We know that a, b and c are lengths of sides of $\triangle$ ABC and R is the circum radius.
 
-<img src="/docs/images/sine rule image 2.png" width="400" height="600">
+<img src="/docs/images/sine rule image 3.jpg" width="400" height="600">
 
 From the diagram we can see that BC is the chord of the circle. From circle properties we know that 
 
@@ -30,7 +30,7 @@ $$\angle BOC = 2A$$
 
 Let's draw altitude to OM in $\triangle$OBC perpendicular to side BC. As OB and OC are also radii of the circle we can understand that $\triangle$OBC is an isosceles triangle. In an isosceles triangle altitude and median coincides. Therefore OM is not just altitude but also median. Therefore BM =$\frac{a}{2}$
 
-<img src="/docs/images/sine rule image 3.jpg" width="400" height="600">
+<img src="/docs/images/sine rule image 1.jpg" width="400" height="600">
 
 Now let's consider $\triangle$ OMB, since OBC is isosceles OM bisects $\angle$ BOC. And $\angle$ OMB =$90^0$
 
