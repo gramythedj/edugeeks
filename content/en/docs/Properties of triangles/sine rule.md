@@ -22,7 +22,7 @@ Let's consider the $\triangle$ ABC as shown in the figure circumscribed. O is th
 
 We know that a, b and c are lengths of sides of $\triangle$ ABC and R is the circum radius.
 
-<img src="/docs/images/sine rule image 2.jpg" width="400" height="600">
+<img src="/docs/images/sine rule image 2.png" width="400" height="600">
 
 From the diagram we can see that BC is the chord of the circle. From circle properties we know that 
 
