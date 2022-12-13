@@ -26,38 +26,38 @@ $$Let’s\ compare\ \triangle ABC\ with\ \triangle\ ABD$$
 
 $$\angle BAC = \angle BAD$$
 
-$\angle ABC$ = $\angle$ ADB = $90^0$
+$$\angle ABC = \angle ADB = 90^0$$
 
 Therefore by Angle-Angle axiom we can say that $\triangle$ ABC $\sim$ $\triangle$ ADB
 
-As  $\triangle$ ABC $\sim$ $\triangle$ ADB
+$$\triangle ABC \sim \triangle ADB$$
 
-$\frac{AB}{AD}=\frac{AC}{AB}$ 
+$$\frac{AB}{AD}=\frac{AC}{AB}$$ 
 
-AB $^2$ = AC AD   —---------(1)
+$$AB^2 = AC AD   —---------(1)$$
 
 Let’s compare \triangle ABC with $\triangle$ BDC
 
-$\angle$ BCA = $\angle$ BCD
+$$\angle BCA = \angle BCD$$
 
-$\angle ABC$ = $\angle$ BDC = $90^0$
+$$\angle ABC = \angle BDC = 90^0$$
 
 Therefore by Angle-Angle axiom we can say that $\triangle$ ABC $\sim$ $\triangle$ BDC
 
-As  $\triangle$ ABC $\sim$ $\triangle$ BDC
+$$\triangle ABC \sim \triangle BDC$$
 
-$\frac{BC}{DC}=\frac{AC}{BC}$
+$$\frac{BC}{DC}=\frac{AC}{BC}$$
 
-BC $^2$ = DC AC  —---------(2)
+$$BC^2 = DC AC  —---------(2)$$
 
 From (1) and (2), Add (1) and (2)
 
-AB $^2$ + BC $^2$ = AC AD + DC AC
+$$AB^2 + BC^2 = AC AD + DC AC$$
 
-AB $^2$ + BC $^2$ = AC ( AD + AC)
+$$AB^2 + BC^2 = AC ( AD + AC)$$
 
 From the diagram we can see that AC = AD + AC
 
-AB $^2$ + BC $^2$ = AC $^2$
+$$AB ^2 + BC^2 = AC ^2$$
 
 Hence proved that in a right angled triangle square of length of hypotenuse is equal to the sum of squares of the lengths of other two sides.
