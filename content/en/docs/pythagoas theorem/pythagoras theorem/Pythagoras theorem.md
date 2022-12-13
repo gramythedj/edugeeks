@@ -11,7 +11,7 @@ In this article we used one method to prove the theorem. hope yu find it intrest
 
 **Statement:** square of length hypotenuse of a right angled triangle is equal to the sum of squares of lengths other two sides
 
-i.e. $c^2 = a^2+b^2$
+$$c^2 = a^2+b^2$$
 
 Where **c** is the length of hypotenuse of a right angled triangle, while **a** and **b** are lengths of other two sides 
 
@@ -22,9 +22,9 @@ Consider the triangle ABC where $\angle$ B = $90^0$ as shown in the figure. Let'
 
 <img src="/docs/images/pythagoras theorem.jpg" width="400" height="600">
 
-Let’s compare \triangle ABC with $\triangle$ ABD
+$$Let’s\ compare\ \triangle ABC\ with\ \triangle\ ABD$$
 
-$\angle$ BAC = $\angle$ BAD
+$$\angle BAC = \angle BAD$$
 
 $\angle ABC$ = $\angle$ ADB = $90^0$
 
