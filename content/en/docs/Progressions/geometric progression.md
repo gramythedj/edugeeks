@@ -44,7 +44,7 @@ let's subtract equation (1) from equation (2)
  
 $S_n- r S_n$
 
-$=(a + \cancel{ar} + ......+ \cancel{ar^{n-1}})-(\cancel{ar} + \cancel{ar^2} +......+ ar^n)$
+$=(a+\cancel{ar}...+\cancel{ar^{n-1}})-(\cancel{ar}+\cancel{ar^2}...+ ar^n)$
 
  
 $(1- r) S_n= [a- ar^n]$
