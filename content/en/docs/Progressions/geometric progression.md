@@ -32,24 +32,29 @@ $n^{th}$ term is $a_n=ar^{n-1}$
 3) if |r|<1 and n = $\infty$ then $S_n = \frac{a}{1-r}$
 
 **Proof:**
-1) $$S_n= a + ar + ar^2 +.....+ ar^{n-1}----(1)$$
- now multiply common ration **r** on both sides of the equation
+Case-1) 
+
+$S_n= a + ar + ar^2 +.....+ ar^{n-1}----(1)$
+
+now multiply common ration **r** on both sides of the equation
  
- $$ r S_n = ar + ar^2 + ar^3 + ......+ ar^n-----(2)$$
+$r S_n = ar + ar^2 + ar^3 + ......+ ar^n-----(2)$
  
- let's subtract equation (1) from equation (2)
+let's subtract equation (1) from equation (2)
  
- $$S_n- r S_n= [a + ar + ......+ ar^{n-1}] - [ ar + ar^2 +......+ ar^n]$$
+$S_n- r S_n= [a + ar + ......+ ar^{n-1}] - [ ar + ar^2 +......+ ar^n]$
  
- by rearrangimg we get 
+by rearrangimg we get 
  
- $$(1- r) S_n= [a + (ar-ar) + (ar^2-ar^2)......+ (ar^{n-1}-r^{n-1})- ar^n]$$
+$(1- r) S_n= [a + (ar-ar) + (ar^2-ar^2)......+ (ar^{n-1}-r^{n-1})- ar^n]$
  
- $$(1- r) S_n= [a- ar^n]$$
+$(1- r) S_n= [a- ar^n]$
  
- $$ S_n= \frac{a(1- r^n)}{1-r}$$
+$S_n= \frac{a(1- r^n)}{1-r}$
  
- 3) given |r|<1 and n = $\infty$ 
+Case-3) 
+
+given |r|<1 and n = $\infty$ 
 
 from the above proof we can write 
 
