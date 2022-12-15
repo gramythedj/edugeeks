@@ -34,19 +34,18 @@ $n^{th}$ term is $a_n=ar^{n-1}$
 **Proof:**
 Case-1) 
 
-$S_n= a + ar + ar^2 +.....+ ar^{n-1}----(1)$
+$S_n= a+ar+ar^2+.....+ar^{n-1}----(1)$
 
 now multiply common ration **r** on both sides of the equation
  
-$r S_n = ar + ar^2 + ar^3 + ......+ ar^n-----(2)$
+$rS_n =ar+ar^2+ar^3+......+ar^n-----(2)$
  
 let's subtract equation (1) from equation (2)
  
-$S_n- r S_n= [a + ar + ......+ ar^{n-1}] - [ ar + ar^2 +......+ ar^n]$
- 
-by rearrangimg we get 
- 
-$(1- r) S_n= [a + (ar-ar) + (ar^2-ar^2)......+ (ar^{n-1}-r^{n-1})- ar^n]$
+$S_n- r S_n$
+
+$=(a + \cancel{ar} + ......+ \cancel{ar^{n-1}})-(\cancel{ar} + \cancel{ar^2} +......+ ar^n)$
+
  
 $(1- r) S_n= [a- ar^n]$
  
