@@ -45,8 +45,6 @@ let's subtract equation (1) from equation (2)
    $S_n  = a+ar+ar^2+.....+ar^{n-1}$
 
 $\underline{- rS_n = -(ar+ar^2+ar^3+......+ar^n) } $
-
-on cancelling we get
  
 $(1- r) S_n= [a- ar^n]$
  
