@@ -34,18 +34,19 @@ $n^{th}$ term is $a_n=ar^{n-1}$
 **Proof:**
 Case-1) 
 
-$S_n= a+ar+ar^2+.....+ar^{n-1}----(1)$
+$S_n= a+ar+ar^2+.....+ar^{n-1}$----(1)
 
 now multiply common ration **r** on both sides of the equation
  
-$rS_n =ar+ar^2+ar^3+......+ar^n-----(2)$
+$rS_n =ar+ar^2+ar^3+......+ar^n$-----(2)
  
 let's subtract equation (1) from equation (2)
  
-$S_n- r S_n$
+   $S_n  = a+ar+ar^2+.....+ar^{n-1}$
 
-$=(a+\cancel{ar}...+\cancel{ar^{n-1}})-(\cancel{ar}+\cancel{ar^2}...+ ar^n)$
+$\underline{- rS_n = -(ar+ar^2+ar^3+......+ar^n) } $
 
+on cancelling we get
  
 $(1- r) S_n= [a- ar^n]$
  
@@ -68,3 +69,7 @@ $$ S_n= \frac{a}{1-r}$$
 ### Geometric mean (GM):
 
 If  $a_1,a_2,a_3,.......a_n$ are positive numbers then $(a_1a_2a_3.......a_n)^{1/n}$ is called geometric mean of  $a_1,a_2,a_3,.......a_n$.
+
+therefore GM of a and b is
+
+$$GM=\sqrt{ab}$$
