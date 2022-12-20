@@ -1,6 +1,6 @@
 ---
 title: "Physics"
-linkTitle: "physics"
+linkTitle: "Physics"
 weight: 20
 menu:
   main:
