@@ -5,12 +5,10 @@ weight: 1
 url: /area-of-triangle/
 mathjax: true
 ---
-There are many formulae for the area of triangle, in this article we would like to prove the following formulae of area of triangle. which are more commonly used
+There are many formulae for the area of triangle, in this article we would like to prove the following formula of area of triangle. which is more commonly used
 in mathematics.
 
 $1)\Delta = \frac{1}{2} base * height$ where base is one side of the triangle and height is the altitude on the considered side from the opposite vertex.
-
-$2) \Delta = \sqrt{s(s-a)(s-b(s-c)}$, where a, b and c are the lenghts of sides of triangle 
 
 ### 1) Proof of $\Delta\ = 1/2\ base * height$
 
