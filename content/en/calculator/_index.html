@@ -15,6 +15,95 @@ menu:
 
 {{< /blocks/cover >}}
 
+<html>
+<head>
+  <title>Trigonometry Calculator</title>
+  <style>
+    /* Add some styling for the calculator */
+    .calculator {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      width: 500px;
+      margin: 0 auto;
+      background-color: lightgrey;
+      border-radius: 5px;
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      padding: 20px;
+    }
+
+    /* Style the input fields */
+    .calculator input[type="number"] {
+      width: 60%;
+      height: 30px;
+      font-size: 16px;
+      border: none;
+      border-bottom: 2px solid darkgrey;
+      margin-bottom: 20px;
+      text-align: center;
+    }
+
+    /* Style the buttons */
+    .calculator button {
+      width: 30%;
+      height: 30px;
+      font-size: 16px;
+      border: none;
+      background-color: darkgrey;
+      color: white;
+      cursor: pointer;
+      margin-bottom: 20px;
+    }
+
+    /* Style the result field */
+    .calculator #result {
+      width: 60%;
+      height: 30px;
+      font-size: 16px;
+      border: 2px solid darkgrey;
+      text-align: center;
+      margin-bottom: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="calculator">
+    <h1>Trigonometry Calculator</h1>
+    <input type="number" id="angle" placeholder="Enter angle in degrees">
+    <button onclick="calculateSin()">Calculate sin</button>
+    <button onclick="calculateCos()">Calculate cos</button>
+    <button onclick="calculateTan()">Calculate tan</button>
+    <input type="text" id="result" placeholder="Result will appear here">
+  </div>
+  <script>
+    // Convert degrees to radians
+    function toRadians(degrees) {
+      return degrees * (Math.PI / 180);
+    }
+
+    // Calculate the sin of the angle
+    function calculateSin() {
+      var angle = document.getElementById("angle").value;
+      var result = Math.sin(toRadians(angle));
+      document.getElementById("result").value = result;
+    }
+
+    // Calculate the cos of the angle
+    function calculateCos() {
+      var angle = document.getElementById("angle").value;
+      var result = Math.cos(toRadians(angle));
+      document.getElementById("result").value = result;
+    }
+
+    // Calculate the tan of the angle
+    function calculateTan() {
+      var angle = document.getElementById("angle").value;
+      var result = Math.tan(toRadians(angle));
+      document.getElementById("result").value = result;
+    }
+  </script>
+</body>
+</html>
 
 
 
