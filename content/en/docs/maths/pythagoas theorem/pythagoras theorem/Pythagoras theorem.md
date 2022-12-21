@@ -2,7 +2,7 @@
 title: "Proof of Pythagoras theorem"
 date: 08-12-2022
 weight: 1
-url: /Proof-of-Pythagoras-theorem/
+url: /proof-of-pythagoras-theorem/
 mathjax: true
 ---
 (There are thousands of independent ways of proving the pythagoras theorem. It was discovered by many mathematicians before and after pythagoras independently. where as proofs are done in various methods. People are so fascinated about this theorem becasue it is so important theorem, because it is useful in almost every subject directly or indirectly)

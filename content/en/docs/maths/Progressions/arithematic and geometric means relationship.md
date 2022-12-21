@@ -2,7 +2,7 @@
 title: "Relationship between Arithematic and Geometric Means"
 date: 09-12-2022
 weight: 3
-url: /Relationship-between-Arithematic-and-Geometric-Means/
+url: /relationship-between-arithematic-and-geometric-means/
 mathjax: true
 ---
 **Relation:** For A being the arithematic mean and G being the Geometric mean of positive real numbers **a** and **b** then we habe A= $\frac{a+b}{2}$ and G= $\sqrt {ab}$ then 

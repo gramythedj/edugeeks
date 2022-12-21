@@ -2,7 +2,7 @@
 title: "Trigonometric Identities (problem solving)"
 date: 07-12-2022
 weight: 2
-url: /Trigonometric-Identities-(problem-solving)/
+url: /trigonometric-identities-(problem-solving)/
 mathjax: true
 ---
 

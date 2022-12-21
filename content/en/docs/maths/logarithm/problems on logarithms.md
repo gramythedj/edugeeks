@@ -2,7 +2,7 @@
 title: "Practice Problems on logarithms"
 date: 10-12-2022
 weight: 3
-url: /Practice-pproblems-on-logarithms/
+url: /practice-problems-on-logarithms/
 mathjax: true
 ---
 

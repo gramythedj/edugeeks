@@ -1,7 +1,7 @@
 
 ---
-title: "Maths"
-linkTitle: "Maths"
+title: "Learn"
+linkTitle: "learn"
 weight: 20
 menu:
   main:
