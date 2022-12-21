@@ -9,7 +9,7 @@ menu:
 ---
 
 {{% pageinfo %}}
-This is a Docs page which include all Maths theories and Problems.
+This is a Math's page which include all Maths theories and Problems.
 {{% /pageinfo %}}
 
 
