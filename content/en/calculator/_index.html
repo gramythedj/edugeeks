@@ -92,14 +92,14 @@ menu:
     function calculateCos() {
       var angle = document.getElementById("angle").value;
       var result = Math.cos(toRadians(angle));
-      document.getElementById("result").value = result;
+      document.getElementById("result").value = result.toFixed(8);
     }
 
     // Calculate the tan of the angle
     function calculateTan() {
       var angle = document.getElementById("angle").value;
       var result = Math.tan(toRadians(angle));
-      document.getElementById("result").value = result;
+      document.getElementById("result").value = result.toFixed(8);
     }
   </script>
 </body>
