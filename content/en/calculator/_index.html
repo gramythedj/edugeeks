@@ -85,7 +85,7 @@ menu:
     function calculateSin() {
       var angle = document.getElementById("angle").value;
       var result = Math.sin(toRadians(angle));
-      document.getElementById("result").value = Math.round(result);
+      document.getElementById("result").value = roundnum2(result,8);
     }
 
     // Calculate the cos of the angle
