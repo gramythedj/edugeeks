@@ -1,7 +1,7 @@
 
 ---
-title: "Maths"
-linkTitle: "Maths"
+title: "Physics"
+linkTitle: "physics"
 weight: 20
 menu:
   main:
