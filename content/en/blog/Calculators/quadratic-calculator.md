@@ -1,5 +1,5 @@
 ---
-date: 2022-12-01
+date: 2022-12-22
 title: "quadratic calculator"
 linkTitle: "quadrati-calculator"
 url: /quadratic-calculator/
