@@ -21,7 +21,7 @@ SI unit of charge is coulomb and represented as C. An electron has a charge of $
 
 **Note:* positive and negative is just a representation of the opposite nature of particles in a mathematical way.
 
-<img src="/docs/images/charges_interactionimage1.jpg" width="400" height="600">
+<img src="/docs/images/charges_interactionimage1.jpg">
 
 ###### Quantization of charge:
 
