@@ -18,7 +18,7 @@ Let's prove the formula using normal geometry. For that let's consider a paralel
 in paralelllogram ABCD. since $\triangle ABC$ and $\triangle CDA$ have equal lenghts of sides both the triangles, that means both triangles are congruent, which means
 areas of $\triangle ABC$ and $\triangle CDA$ must be equal. that means area of paralellogram is twice the area of $\triangle ABC$ or $\triangle ADC$.
 
-<img src="/docs/images/areaoftriangleimage1.jpg" width="400" height="600">
+<img src="/docs/images/areaoftriangleimage1.jpg">
 
 therefore area of $\triangle$ ABC = $\frac{1}{2}$ area of ABCD
 
