@@ -27,7 +27,11 @@ When the constant value was measured experimentally it was found to be $\frac{1}
 $\epsilon_0$ is the permittivity of free space, $\epsilon_0=8.85419\times 10^{-11} C^2 N{-1} m{-2}$. By 
 substituting the constant we get:
 
-$$F = \frac{1}{4\pi \epsilon_0} \frac{k q_1 q_2}{r^2}$$
+$$F = \frac{1}{4\pi \epsilon_0} \frac{ q_1 q_2}{r^2}$$
+
+and vectorically, 
+
+$$\ve{F} = \frac{1}{4\pi \epsilon_0} \frac{ q_1 q_2}{r^3} \vec{r}$$
 
 ### Practice problems
 
