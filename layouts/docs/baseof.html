@@ -21,6 +21,10 @@
           <main class="col-12 col-md-9 col-xl-8 pl-md-5" role="main">
             {{ partial "version-banner.html" . }}
             {{ if not .Site.Params.ui.breadcrumb_disable }}{{ partial "breadcrumb.html" . }}{{ end }}
+            <div>
+                <h4> Table of Contents</h4>
+                {{ partial "toc.html" . }}
+            </div>
             {{ block "main" . }}{{ end }}
           </main>
         </div>
