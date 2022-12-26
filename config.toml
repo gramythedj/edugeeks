@@ -10,13 +10,15 @@ enableMissingTranslationPlaceholders = true
 
 enableRobotsTXT = true
 
-custom_css = ["css/custom.css"]
+
 
 # Will give values to .Lastmod etc.
 enableGitInfo = true
 
 # Comment out to enable taxonomies in Docsy
 # disableKinds = ["taxonomy", "taxonomyTerm"]
+
+custom_css = ["css/custom.css"]
 
 # You can add your own taxonomies
 [taxonomies]
