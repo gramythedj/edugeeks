@@ -4,3 +4,7 @@ code.has-jax {
     border: none !important;
     font-size: 100%;
 }
+
+body{
+    background-color: aliceblue;
+}
