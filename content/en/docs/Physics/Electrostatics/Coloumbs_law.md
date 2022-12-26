@@ -19,7 +19,7 @@ $$F = \frac{k q_1 q_2}{r^2}$$
 
 Where k is the proportionality constant. The vectorical representation of coulomb's law can be written as :
 
-$$\vecF \propto \frac{q_1 q_2}{r^3} \vecr$$
+$$\vec{F} \propto \frac{q_1 q_2}{r^3} \vec{r}$$
 
 <img src="/docs/images/IMG_20221226_113030.jpg">
 
