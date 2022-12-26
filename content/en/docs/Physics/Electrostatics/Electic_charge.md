@@ -9,7 +9,13 @@ mathjax: true
 
 ### What is electric charge?
 
-We have three types of particles in nature on the basis of electrostatics. They are namely positive charge particles, negatively charged particles, and neutral particles. They are determined in such a way based on their interaction i.e. 1) like charges repel each other, 2) Unlike charges attract each other, and 3) neutral bodies don't interact with any other particles.
+We have three types of particles in nature on the basis of electrostatics. They are namely positive charge particles, negatively charged particles, and neutral particles. They are determined in such a way based on their interaction i.e. 
+
+1) like charges repel each other,
+
+2) Unlike charges attract each other, and 
+
+3) neutral bodies don't interact with any other particles.
 
 I.e. Two positive charges always repel each other, and so do the negative charges. Whereas a positive charge always attracts negative charge and vice versa. 
 
