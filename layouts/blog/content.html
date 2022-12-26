@@ -12,6 +12,10 @@
 			{{ partial "reading-time.html" . }}
 		{{ end }}
 	</header>
+	<div>
+		<h4> Table of Contents</h4>
+		{{ partial "toc.html" . }}
+	</div>
 	{{ .Content }}
 	{{ if (.Site.Params.DisqusShortname) }}
 		<br />
