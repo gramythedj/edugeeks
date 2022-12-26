@@ -39,3 +39,10 @@ When two charges combine together the charge of combination is the algebraic sum
 i.e. when a 5 C charge body meets with 6 C charge body and stays together then the resultant charge of the new body is 11 coulombs. Similarly when a 5 C charge body meets with -6 C charge body and stays together then the resultant charge of the new body is -1 coulombs.
 
 A real life example of all the above properties of charges can be observed in beta decay. When a neutron in the nucleus of a heavy atom splits into a proton and an electron the charge is conserved because the charge before splitting is zero and the charge after splitting as a whole is 0. Is an example of conservation of charge and an example of additivity of charge.
+
+###### Conduction of charge:
+
+When a charged body is made contact with a neutral conducting body, Charge flows to the neutral body so that charge density is equally distributed in the both bodies. this can be understood by following image.
+
+
+<img src="/docs/images/IMG-20221226-WA0003.jpg">
