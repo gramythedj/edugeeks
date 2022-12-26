@@ -6,12 +6,5 @@ code.has-jax {
 }
 
 body {
-    margin: 0;
-    font-family: open sans,-apple-system,BlinkMacSystemFont,segoe ui,Roboto,helvetica neue,Arial,sans-serif,apple color emoji,segoe ui emoji,segoe ui symbol;
-    font-size: 1rem;
-    font-weight: 400;
-    line-height: 1.5;
-    color: #222;
-    text-align: left;
-    background-color: rgb(178, 111, 242);
-}
+    background: #FAF9F6;
+  }
