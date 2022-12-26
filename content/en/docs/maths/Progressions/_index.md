@@ -1,6 +1,5 @@
 ---
-title: "Progression"
-linktitle: "Progression"
+title: "progression"
+linktitle: "progression"
 weight: 1
-
 ---
