@@ -46,3 +46,9 @@ When a charged body is made contact with a neutral conducting body, Charge flows
 
 
 <img src="/docs/images/IMG-20221226-WA0003.jpg">
+
+###### Induction of charge into a neutral body:
+
+Charge can be induced into a body not only by conduction. when a neutral body is brought into the filed of a positively charged body, as shown in the figure, electronss inside the neutral body get attracted towards the positive charge and postive charge get repeled to the otherside as shown in the figure. when we ground the negative charge end, the electrons would floiw to the ground making the body postively charged.
+
+<img src="/docs/images/IMG-20221226-WA0002.jpg">
