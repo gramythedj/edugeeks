@@ -17,7 +17,7 @@ Neutral particles are combinations of both positive and negative charges in equa
 
 **Informal definition:** From the above information we can understand that charge is a physical quantity of particles which determines the nature of electrical interactions.
 
-SI unit of charge is coulomb and represented as C. An electron has a charge of $-1.6 * 10^{-19}$ C and a proton has a charge of $+1.6 * 10^{-19}$ C. Whereas a neutron charge is 0 C
+SI unit of charge is coulomb and represented as C. An electron has a charge of $-1.6 \times 10^{-19}$ C and a proton has a charge of $+1.6 \times 10^{-19}$ C. Whereas a neutron charge is 0 C
 
 **Note:* positive and negative is just a representation of the opposite nature of particles in a mathematical way.
 
@@ -25,7 +25,7 @@ SI unit of charge is coulomb and represented as C. An electron has a charge of $
 
 ###### Quantization of charge:
 
-Every particle in the universe is made up of atoms, which are made up of electrons, protons and neutrons. Electron is the smallest negative charge while proton is the smallest positive charge there for any charge should be integral multiple of these particles that is a negatively charged particle should be *-n e* where and is a positive integer and $e = 1.6 * 10^{-19}$ C. similarly positive charge should be *+n e* where and is positive integer and $e = 1.6 * 10^{-19}$. This means that the fractional charge of e doesn't exist.
+Every particle in the universe is made up of atoms, which are made up of electrons, protons and neutrons. Electron is the smallest negative charge while proton is the smallest positive charge there for any charge should be integral multiple of these particles that is a negatively charged particle should be *-n e* where and is a positive integer and $e = 1.6 \times 10^{-19}$ C. similarly positive charge should be *+n e* where and is positive integer and $e = 1.6 \times 10^{-19}$. This means that the fractional charge of e doesn't exist.
 
 ###### Charge is conserved:
 
