@@ -1,0 +1,128 @@
+---
+date: 2022-12-22
+title: "quadratic calculator"
+linkTitle: "quadrati-calculator"
+url: /quadratic-calculator/
+---
+
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quadratic Equation calculator</title>
+
+    <style>
+        #calculator {
+  width: 400px;
+  margin: 0 auto;
+  text-align: center;
+  background-color: #333;
+  border-radius: 10px;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+  font-family: Arial, sans-serif;
+  color: #fff;
+}
+
+#inputs,
+#outputs {
+  display: flex;
+  justify-content: space-between;
+  margin: 20px;
+}
+
+.input-group,
+.output-group {
+  display: flex;
+  align-items: center;
+}
+
+label {
+  margin-right: 10px;
+}
+
+input[type="number"] {
+  width: 80px;
+  height: 30px;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  background-color: #555;
+  color: #fff;
+  text-align: right;
+}
+
+output {
+  width: 80px;
+  height: 30px;
+  font-size: 18px;
+  border: none;
+  border-radius: 5px;
+  background-color: #555;
+  color: #fff;
+  text-align: right;
+}
+
+#calculate-button {
+  margin: 20px;
+  padding: 10px 20px;
+  font-size: 18px;
+  font-weight: bold;
+  border: none;
+  border-radius: 5px;
+  background-color: #16a085;
+  color: #fff;
+  cursor: pointer;
+}
+
+#calculate-button:hover {
+  background-color: #1abc9c;
+}
+
+
+    </style>
+</head>
+<body>
+    <div id="calculator">
+        <div id="inputs">
+          <div class="input-group">
+            <label for="a">a:</label>
+            <input type="number" id="a" value="1">
+          </div>
+          <div class="input-group">
+            <label for="b">b:</label>
+            <input type="number" id="b" value="1">
+          </div>
+          <div class="input-group">
+            <label for="c">c:</label>
+            <input type="number" id="c" value="1">
+          </div>
+        </div>
+        <div id="outputs">
+          <div class="output-group">
+            <label for="x1">x1:</label>
+            <output id="x1">0</output>
+          </div>
+          <div class="output-group">
+            <label for="x2">x2:</label>
+            <output id="x2">0</output>
+          </div>
+        </div>
+        <button id="calculate-button" onclick="calculate()">Calculate</button>
+      </div>
+   <script>
+    function calculate() {
+  const a = document.querySelector("#a").value;
+  const b = document.querySelector("#b").value;
+  const c = document.querySelector("#c").value;
+
+  const x1 = (-b + Math.sqrt(b*b - 4*a*c)) / (2*a);
+  const x2 = (-b - Math.sqrt(b*b - 4*a*c)) / (2*a);
+  document.querySelector("#x1").value = x1;
+  document.querySelector("#x2").value = x2;
+  
+}
+
+   </script>      
+</body>
+</html>
