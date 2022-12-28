@@ -1,0 +1,82 @@
++++
+title = "Exam Demo!"
+linkTitle = "Exam Demo!"
+url: /exam-demo/
+
++++
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>exam demo</title>
+    <style>
+        input[type=radio] {
+    display:none; 
+}
+input[type=radio] + label {
+    display:inline-block;
+ width:95%;
+ padding:10px;
+ border:1px solid #ddd;
+ margin-bottom:10px;
+ cursor:pointer;
+}
+input[type=radio] + label:hover{ border:1px solid #000000;}
+input[type=radio]:checked + label { 
+   background-image: none;
+   background-color:#0C0;
+ color:#fff;
+ border:1px solid #0C0 !important;
+ -webkit-transition: all 0.2s ease-in-out;
+-moz-transition: all 0.2s ease-in-out;
+-o-transition: all 0.2s ease-in-out;
+-ms-transition: all 0.2s ease-in-out;
+transition: all 0.2s ease-in-out;
+}
+
+.worngans{ background-color:#F36;color:#fff; border:1px solid #F36 !important;-webkit-transition: all 0.2s ease-in-out;
+-moz-transition: all 0.2s ease-in-out;
+-o-transition: all 0.2s ease-in-out;
+-ms-transition: all 0.2s ease-in-out;
+transition: all 0.2s ease-in-out;}
+    </style>
+</head>
+<body>
+    <div class="scp-quizzes-main">
+        <div class="scp-quizzes-data">
+          <h3>1. What is the output of the below c code?</h3>
+            <pre>#include&lt;stdio.h> 
+        main() 
+        {
+           int x = 5;
+           
+           if(x=5)
+           { 
+              if(x=5) printf("Fast");
+           } 
+           printf("learning");
+        }</pre>
+        <br/>
+            <input type="radio" id="Fastlearning" name="question1">
+               <label for="Fastlearning">1. Fastlearning</label><br/>
+            <input type="radio"  name="question1">
+               <label>2. learning</label><br/>
+            <input type="radio" name="question1">
+               <label>3. learningFast</label> <br/>
+            <input type="radio" name="question1">
+             <label>4. Fast</label> 
+         </div>
+
+         <script type="text/javascript">
+            $(document).ready(function() {
+               $('label').click(function() {
+                   $('label').removeClass('worngans');
+                   $(this).addClass('worngans');
+               });
+           });
+           </script>
+</body>
+</html>
