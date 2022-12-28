@@ -1,7 +1,6 @@
 ---
 title: "Sine rule or Laws of sine"
 date: 13-12-2022
-weight: 1
 url: /sine-rule-or-laws-of-sine/
 mathjax: true
 ---

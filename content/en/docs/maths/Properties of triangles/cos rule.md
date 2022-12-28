@@ -1,7 +1,6 @@
 ---
 title: "cos rules or Laws of cos"
 date: 13-12-2022
-weight: 1
 url: /cos-rule-or-Laws-of-cos/
 mathjax: true
 ---
