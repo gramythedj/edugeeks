@@ -68,7 +68,7 @@ id = "G-E18BQ9X1QQ"
 [languages]
 [languages.en]
 title = "Edugeeks Alert!"
-description = "An Educational and Learning website"
+description = "An Educational and Learning website for various exams including JEE, CAt, and Government Exams like PCS, SSC CGL and Banks POs"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
