@@ -1,0 +1,210 @@
+﻿body
+{
+}
+
+.div_matching_class
+{
+    margin: 10px;
+}
+
+.dropdown-matching 
+{
+    margin-bottom: 5px;
+}
+
+.caret 
+{
+    position: absolute;
+    left: 90%;
+    top: 45%;
+}
+
+.dropdown 
+{
+    display: inline;
+    margin-right: 10px;
+}
+
+.small-icon-image
+{
+    margin-right: 8px;
+}
+
+.form-group.required .control-label:after 
+{
+    content: "*";
+    color: red;
+}
+
+.close {
+    display: none;
+}
+
+/***** TOPBAR *******/
+@media screen and (max-width: 768px) {
+    .text-xs-center {
+        text-align: center;
+    }
+
+    .text-xs-left {
+        text-align: left;
+    }
+}
+
+
+.label_topbar {
+    font-size: 10pt;
+}
+
+.label_topbar_clock {
+    font-size: 12pt;
+}
+
+.badge {
+    font-size: 10pt !important;
+}
+
+@media screen and (min-width: 768px) {
+    .modal-content {
+        width: 50%;
+        margin: 0 auto;
+    }
+
+    .modal {
+        text-align: center;
+    }
+
+    .modal:before {
+        display: inline-block;
+        vertical-align: middle;
+        content: " ";
+        height: 100%;
+    }
+
+    .label_topbar {
+        font-size: 12pt;
+    }
+
+    .label_topbar_clock {
+        font-size: 12pt;
+    }
+
+    .badge {
+        font-size: 12pt !important;
+    }
+}
+
+
+.modal-dialog {
+    display: inline-block;
+    text-align: left;
+    vertical-align: middle;
+}
+
+.modal-header {
+    background-color: #337AB7;
+    color: white;
+    border-radius: 6px 6px 0 0;
+}
+
+.true_false_class {
+    margin-left: 7px;
+    margin-right: 21px;
+    text-transform: uppercase;
+    font-size: 10pt;
+    font-family: sans-serif;
+}
+
+#idQuizFooter.panel-body {
+    background-color: #eee;
+}
+
+/* Style the header */
+.header {
+    padding: 10px 16px;
+    background: #555;
+    color: #f1f1f1;
+    z-index: 10000;
+    opacity: 0.8;
+}
+
+/* Page content */
+.content {
+    padding: 16px;
+}
+
+/* The sticky class is added to the header with JS when it reaches its scroll position */
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100%
+}
+
+    /* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
+    .sticky + .content {
+        padding-top: 102px;
+    }
+
+.hint_icon {
+    margin-right: 15px;
+}
+
+.radio_answer,
+.checkbox_answer {
+    -ms-transform: scale(1); /* IE 9 */
+    -webkit-transform: scale(1); /* Chrome, Safari, Opera */
+    transform: scale(1);
+}
+
+#idLinkPrev,
+#idLinkNext {
+    background-color: #337ab7;
+    color: white;
+}
+
+select.form-control {
+    margin-left: 7px !important;
+    margin-right: 7px !important;
+}
+
+.text_full_width {
+    display: inline-block;
+    width: 100%;
+    padding-left: 7px;
+}
+
+
+.nowrap {
+    white-space: nowrap;
+}
+
+
+.class_bool_choices ol {
+    counter-reset: my-awesome-counter;
+    list-style: none;
+    padding-left: 40px;
+}
+
+.class_bool_choices ol li {
+    margin: 0 0 0.5rem 0;
+    counter-increment: my-awesome-counter;
+    position: relative;
+}
+
+.class_bool_choices ol li::before {
+    content: counter(my-awesome-counter);
+    color: #FFFFFF;
+    font-size: 1.5rem;
+    font-weight: bold;
+    position: absolute;
+    --size: 32px;
+    left: calc(-1 * var(--size) - 10px);
+    line-height: var(--size);
+    width: var(--size);
+    height: var(--size);
+    top: 0;
+    background: #337ab7;
+    border-radius: 50%;
+    text-align: center;
+    box-shadow: 1px 1px 0 #999;
+}
