@@ -10,10 +10,6 @@ enableMissingTranslationPlaceholders = true
 
 enableRobotsTXT = true
 
-fonts:
-    - name: Open Sans
-      sizes: [300, 400, 600, 700]
-      type: sans_serif
 
 
  
@@ -140,7 +136,7 @@ github_project_repo = "https://github.com/"
 github_branch= "master"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "d72aa9b2712488cc3"
+gcs_engine_id = " xxxxxxxxx"
 
 # Enable Algolia DocSearch
 algolia_docsearch = false
