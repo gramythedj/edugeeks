@@ -11,10 +11,10 @@ enableMissingTranslationPlaceholders = true
 enableRobotsTXT = true
 
 # fonts
-fonts:
-    - name: Open Sans
+fonts =
+    -[ name: Open Sans
       sizes: [300, 400, 600, 700]
-      type: sans_serif
+      type: sans_serif ]
 
 
 # Will give values to .Lastmod etc.
