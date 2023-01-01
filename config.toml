@@ -10,8 +10,18 @@ enableMissingTranslationPlaceholders = true
 
 enableRobotsTXT = true
 
-# fonts
-fonts ="name: Open Sans,sizes: [300, 400, 600, 700],type: sans_serif "
+fonts:
+    - name: Open Sans
+      sizes: [300, 400, 600, 700]
+      type: sans_serif
+
+
+ 
+fonts = [
+  ["Fira Code", "400, 700"],
+  ["Open Sans", "400, 400i, 700, 700i"],
+  [" type = "sans_serif"]
+]
 
 
 # Will give values to .Lastmod etc.
