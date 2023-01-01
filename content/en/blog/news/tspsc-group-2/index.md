@@ -4,7 +4,7 @@ title: "TSPSC Group-2 notification released"
 linkTitle: "TSPSC Group 2"
 description: "TSPSC Group 2 notification released by TSPSC Board"
 author: Admin ([@crybird4](https://twitter.com/))
-url: /TSPSC-Group-2-notification-relelased/
+url: /tspsc-group-2-notification-relelased/
 
 resources:
 - src: "**.{png,jpg}"
