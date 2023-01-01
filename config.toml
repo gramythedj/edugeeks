@@ -12,13 +12,6 @@ enableRobotsTXT = true
 
 
 
- 
-fonts = [
-  ["Fira Code", "400, 700"],
-  ["Open Sans", "400, 400i, 700, 700i"],
-  [" type", = "sans_serif"]
-]
-
 
 # Will give values to .Lastmod etc.
 enableGitInfo = true
