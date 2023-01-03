@@ -37,8 +37,7 @@ url: /Exam-Demo-4/
         
                 // You can put Questions Here
                 // answer id 1-0, 2-1, 3-2, 4-3, 
-                myApp = [{ question:`color of mango fruit`,options:[`yellow`,`mild yellow`,`red yellow`,`green yellow`],answer:0,},{ question:`color of a test
-              cricket ball`,options:[`white`,`red`,`green`,`yellow`],answer:1,},];
+                myApp = [{ question:`color of mango fruit`,options:[`yellow`,`mild yellow`,`red yellow`,`green yellow`],answer:0,},{ question:`color of a test                              cricket ball`,options:[`white`,`red`,`green`,`yellow`],answer:1,},];
             </script>
         
         <script>  
