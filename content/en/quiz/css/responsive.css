@@ -1,0 +1,48 @@
+@media only screen and (min-width:310px) and (max-width:767px) {
+    .home-carousel .owl-carousel {
+        padding-top: 16px;
+        padding-bottom: 10px
+    }
+    .home-carousel h1 {
+        font-size: 20px
+    }
+    .slider-btn {
+        font-size: 11px;
+        margin-bottom: 15px
+    }
+    .wecome-title {
+        font-size: 22px
+    }
+    .home-tabs li a i {
+        font-size: 30px;
+        margin-bottom: 10px;
+        float: left
+    }
+    .home-tabs li,
+    .home-tabs li a {
+        margin-right: 0
+    }
+    .home-tabs li a {
+        font-size: 14px
+    }
+    .tab-content {
+        padding: 0
+    }
+    .heading h2 {
+        font-size: 22px;
+        margin: 0
+    }
+    .heading {
+        margin-bottom: 8px
+    }
+    .clear-xs {
+        clear: both;
+    }
+	.mb5{
+	margin-bottom:5px;
+	}
+	.full-width{
+	width:100%;
+	float:left;
+	}
+}
