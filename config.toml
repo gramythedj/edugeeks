@@ -10,7 +10,8 @@ enableMissingTranslationPlaceholders = true
 
 enableRobotsTXT = true
 
-
+[minify]
+  disableHTML = true
 
 
 # Will give values to .Lastmod etc.
