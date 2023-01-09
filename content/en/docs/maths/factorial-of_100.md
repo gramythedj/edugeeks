@@ -39,6 +39,3 @@ It is also possible to define 0! as the limiting value of n! as n approaches 0. 
 
 
 
-The factorial of a positive integer n is the product of all the positive integers from 1 to n. For example, the factorial of 4 is 4! = 4 * 3 * 2 * 1 = 24. The factorial of 100 is 100! = 100 * 99 * 98 * ... * 2 * 1. This is a very large number, equal to approximately 9.3 x 10^157. It has 158 digits! Here is the first few digits of 100!:
-
-93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000
