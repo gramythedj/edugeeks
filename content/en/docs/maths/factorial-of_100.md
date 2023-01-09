@@ -6,9 +6,9 @@ url: /factorial-of-100/
 mathjax: true
 ---
 
-[factoial](https://media.geeksforgeeks.org/wp-content/cdn-uploads/program-for-factorial-of-a-number-1024x512.png)
+![factoial](https://media.geeksforgeeks.org/wp-content/cdn-uploads/program-for-factorial-of-a-number-1024x512.png)
 ### Factorial of hundred:
-Factorial is the product of all positive integers less than or equal to a given positive integer and denoted by that integer and an exclamation point.
+The factorial of a positive integer n is the product of all the positive integers from 1 to n. For example, the factorial of 4 is 4! = 4 * 3 * 2 * 1 = 24. The factorial of 100 is 100! = 100 * 99 * 98 * ... * 2 * 1. This is a very large number, equal to approximately 9.3 x 10^157. It has 158 digits! Here is the first few digits of 100!:
 
 eg: $4! = 4 \times 3 \times 2\times 1 = 24$
 
@@ -21,7 +21,7 @@ $9332621544394415268169923885626670049071596826438162146859296389521759999322991
 
   The factorial of a positive integer n is the product of all the positive integers from 1 to n. For example, the factorial of 4 is 4! = 4 * 3 * 2 * 1 = 24. The factorial of 100 is 100! = 100 * 99 * 98 * ... * 2 * 1. This is a very large number, equal to approximately 9.3 x 10^157. It has 158 digits! Here is the first few digits of 100!:
 
-93326215443944152681699238856266700490715968264381621468592963895217599993229915608941463976156518286253697920827223758251185210916864000000000000000000000000
+
   
   
 ### Factorial of 0! = 1 Proof
