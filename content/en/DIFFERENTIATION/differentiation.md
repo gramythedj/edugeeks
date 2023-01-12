@@ -1,7 +1,7 @@
 ---
 title: JEE (main) tests and quizzes
 linkTitle: "jee test"
-url: "jee"
+url: "jee-1"
 menu:
   main:
     weight: 10
