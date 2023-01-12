@@ -20,8 +20,6 @@ enableGitInfo = true
 # Comment out to enable taxonomies in Docsy
 # disableKinds = ["taxonomy", "taxonomyTerm"]
 
-custom_css = ["css/custom.css"]
-custom_js = ["js/Begin.js"]
 
 
 # You can add your own taxonomies

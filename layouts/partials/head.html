@@ -15,16 +15,6 @@ src="https://cdn.jsdelivr.net/npm/quizdown@latest/public/build/extensions/quizdo
 <link rel="canonical" href="{{ .Permalink }}" />
 
 
-// css
-{{ range .Site.Params.custom_css -}}
-    <link rel="stylesheet" href="{{ . | absURL }}">
-{{- end }}
-
-// javascript
-{{ range .Site.Params.custom_js -}}
-    <script type="text/javascript" src="{{ . | absURL }}"></script>
-{{- end }}
-
 {{ if .Params.mathjax }}{{ partial "mathjax_support.html" . }}{{ end }}
 {{ hugo.Generator }}
 {{ range .AlternativeOutputFormats -}}
