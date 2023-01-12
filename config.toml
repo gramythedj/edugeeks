@@ -21,6 +21,8 @@ enableGitInfo = true
 # disableKinds = ["taxonomy", "taxonomyTerm"]
 
 custom_css = ["css/custom.css"]
+custom_js = ["js/Begin.js"]
+custom_js = ["js/jquery.min.js"]
 
 # You can add your own taxonomies
 [taxonomies]
