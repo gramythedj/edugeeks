@@ -106,10 +106,10 @@ function CheckResult() {
                 }
             });
             if (ansStatus == 'Correct') {
-                score = score + 4;
+                score = score + 1;
                 TotalCorrect = TotalCorrect + 1;
             } else {
-                score = score - 1;
+                score = score - 0.25;
                 TotalWrong = TotalWrong + 1;
             }
             TotalAttempted = TotalAttempted + 1;
