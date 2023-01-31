@@ -1,6 +1,6 @@
 ---
 title: "Electrostaitcs"
-linktitle: "electrostatics"
+linktitle: "Electrostatics"
 weight: 1
 
 ---
