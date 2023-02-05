@@ -27,8 +27,9 @@ url: /quadratic-calculator-11/
             margin-left: 2rem;
             margin-top: 2rem;
             width: 30%;
+            padding-left: 33%;
     
-            background-color: white;
+            background-color: rgb(131, 131, 131);
             border-radius: 5px;
             box-shadow: 0px 0px 5px grey;
 
@@ -86,7 +87,53 @@ url: /quadratic-calculator-11/
     </div>
 
 
-    Quadratic equation is a 2nd degree polynomial euqtion, generally represented as <b>a x <sup>2</sup> + b x + c = 0</b>, where a &ne; 0. Let's calculate 
+        
+    <script>
+        function submit(){
+
+var a = parseFloat(document.getElementById("x2").value);
+
+var b = parseFloat(document.getElementById("x").value);
+
+var c = parseFloat(document.getElementById("constant").value);
+
+var d1 = b*b - 4*a*c;
+
+
+
+    i=Math.sqrt(-1)
+    if (d1<0){
+        var real = -b/(2*a)
+        var d2 = Math.sqrt(-d1)/(2*a)
+        root1 = real.toString()+' + '+d2.toString() + " i"
+        root2 = real.toString()+' - '+d2.toString() + " i"
+        document.getElementById("rnat").innerText="Roots are imaginary"
+        document.getElementById("root1").innerText=root1
+        document.getElementById("root2").innerText=root2
+
+    }else if(d1===0){
+        var root1 = -b/(2*a)
+        document.getElementById("rnat").innerText="Roots are real and equal"
+        document.getElementById("root1").innerText=root1
+        document.getElementById("root2").innerText=root1
+
+    }else{
+        var real = -b/(2*a)
+        var d2 = Math.sqrt(d1)/(2*a)
+        document.getElementById("rnat").innerText="Roots are distict and real"
+        document.getElementById("root1").innerText= real + d2
+        document.getElementById("root2").innerText= real - d2
+
+
+    }
+}
+    </script>
+</body>
+
+</html>
+
+
+Quadratic equation is a 2nd degree polynomial euqtion, generally represented as <b>a x <sup>2</sup> + b x + c = 0</b>, where a &ne; 0. Let's calculate 
     the roots of the equation and nature of the roots.<br>
     a x <sup>2</sup> + b x + c = 0;  where a &ne; 0<br>
 
@@ -143,47 +190,4 @@ url: /quadratic-calculator-11/
         Let <b>p</b> and <b>q</b> be the roots of the equation <b>a x <sup>2</sup> + b x + c = 0</b>, where a &ne; 0.<br>
         Then sum of the roots p + q = - <math><mfrac><msup><mi>b</mi></msup><msup><mi>a</mi></msup></mfrac> </math>
         and product of the roots is pq = <math><mfrac><msup><mi>c</mi></msup><msup><mi>a</mi></msup></mfrac> </math>
-    </p>        
-    <script>
-        function submit(){
-
-var a = parseFloat(document.getElementById("x2").value);
-
-var b = parseFloat(document.getElementById("x").value);
-
-var c = parseFloat(document.getElementById("constant").value);
-
-var d1 = b*b - 4*a*c;
-
-
-
-    i=Math.sqrt(-1)
-    if (d1<0){
-        var real = -b/(2*a)
-        var d2 = Math.sqrt(-d1)/(2*a)
-        root1 = real.toString()+' + '+d2.toString() + " i"
-        root2 = real.toString()+' - '+d2.toString() + " i"
-        document.getElementById("rnat").innerText="Roots are imaginary"
-        document.getElementById("root1").innerText=root1
-        document.getElementById("root2").innerText=root2
-
-    }else if(d1===0){
-        var root1 = -b/(2*a)
-        document.getElementById("rnat").innerText="Roots are real and equal"
-        document.getElementById("root1").innerText=root1
-        document.getElementById("root2").innerText=root1
-
-    }else{
-        var real = -b/(2*a)
-        var d2 = Math.sqrt(d1)/(2*a)
-        document.getElementById("rnat").innerText="Roots are distict and real"
-        document.getElementById("root1").innerText= real + d2
-        document.getElementById("root2").innerText= real - d2
-
-
-    }
-}
-    </script>
-</body>
-
-</html>
+    </p>    
