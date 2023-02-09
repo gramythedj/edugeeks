@@ -14,15 +14,26 @@ url: /matrix-determinant-calculator/
     <style>
         .aa{
             width: 2rem;
+            margin-top: 2px;
+            
+            margin-right: 2px;
+        }
+        #order{
+            width: 3rem;
+            margin-left: 3px;
+        }
+        .main{
+            margin-left: 2rem;
         }
     </style>
 </head>
 <body><div>
-    Enter order of matrix :<br><input type="text" id="order">
+    <b>Enter order of matrix: </b><input type="text" id="order">
+    <button onclick="printInputsBoxes()">Generate Matrix</button>
 </div>
     <div class="main" id="mai">
         
-        <button onclick="printInputsBoxes()">click for boxes</button>
+        
     </div>
     <div id="result"></div>
     <script>
