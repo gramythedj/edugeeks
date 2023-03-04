@@ -5,8 +5,7 @@ weight: 1
 url: /nuclear-radius/
 mathjax: true
 ---
-<html>
-  <body>
+
     <p>
     As we nucleaus is the core of the atom, where most of the mass of the atom is concentrated, and the nuclear radius is an essential concept in nuclear physics,
     as it represents the size of the atomic nucleus. It plays a significant role in understanding various nuclear phenomena, such as nuclear reactions, nuclear 
@@ -62,5 +61,4 @@ mathjax: true
       radius and the strength of the nuclear force. The advantage of this method is that it can provide information about the collision dynamics and 
       the nuclear matter distribution. However, the interpretation of the data can be complex, and the method is limited to a small range of nuclei.
     </p>
-  </body>
-</html>
+
