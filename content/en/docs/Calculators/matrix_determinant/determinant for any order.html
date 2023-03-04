@@ -1,0 +1,78 @@
+---
+date: 2023-02-08
+title: "Matrix Dterminant calculator"
+linkTitle: "Matrix Determinant calculator"
+url: /matrix-determinant-calculator/
+---
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Determinanat of a matrix</title>
+    <style>
+        .aa{
+            width: 2rem;
+            margin-top: 2px;
+            
+            margin-right: 2px;
+        }
+        #order{
+            width: 3rem;
+            margin-left: 3px;
+        }
+        .main{
+            margin-left: 2rem;
+        }
+    </style>
+</head>
+<body><div>
+    <b>Enter order of matrix: </b><input type="text" id="order">
+    <button onclick="printInputsBoxes()">Generate Matrix</button>
+</div>
+    <div class="main" id="mai">
+        
+        
+    </div>
+    <div id="result"></div>
+    <script>
+        function printInputsBoxes(){
+            var n = parseInt(document.getElementById("order").value)
+            var a=``
+            for(let i = 1;i<=n;i++){
+                for (let j=1;j<=n;j++){
+                    a = a + `<input class = 'aa' id = 'a${i}${j}'>` 
+                } a = a + `<br>`
+            }
+           
+            document.getElementById("mai").innerHTML = a + `<br><button onclick="calculate()">Result</button>`
+        }
+        function calculate(){
+            var n = parseInt(document.getElementById("order").value)
+            var x = []
+            var y = []
+            for(let i = 1;i<=n;i++){
+                y = []
+                for(let j=1;j<=n;j++){
+                    y.push(parseFloat(document.getElementById(`a${i}${j}`).value))
+                }
+                x.push(y)
+            }
+            var det = 1
+            for(let i=0;i<n-1;i++){
+                for(let j=i+1;j<n;j++){
+                    var m = x[j][i]/x[i][i]
+                    for(let k=i+1;k<n;k++){
+                        x[j][k] -= m * x[i][k]
+                    }
+                }
+            }
+            for(let i=0;i<n;i++){
+                det *= x[i][i]
+            }
+            document.getElementById("result").innerText = det
+        }
+    </script>
+</body>
+</html>
