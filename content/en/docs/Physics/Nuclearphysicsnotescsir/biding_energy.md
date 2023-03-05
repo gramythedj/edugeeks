@@ -1,4 +1,10 @@
-
+---
+title: "Binding Energy of Nucleus"
+date: 05-03-2023
+weight: 3
+url: /binding-energy-of-nucleus/
+mathjax: true
+---
 
 What is Binding Energy?
 
