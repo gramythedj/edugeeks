@@ -1,4 +1,10 @@
-
+---
+title: "Strong Nuclear Force"
+date: 05-03-2023
+weight: 1
+url: /strong-nuclear-force/
+mathjax: true
+---
 
 What is the Strong Force?
 
