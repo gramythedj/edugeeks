@@ -5,9 +5,6 @@ linkTitle: "Is there any alternative for a keyboard for modern typing purposes i
 description: "opinion"
 author: Admin
 url: /enlgih-keyboard-alternative-for-hindi/
-resources:
-- src: "**.{png,jpg}"
-  title: "Image #:counter"
 ---
 
 
