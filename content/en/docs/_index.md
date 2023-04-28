@@ -9,7 +9,7 @@ menu:
 ---
 
 {{% pageinfo %}}
-This is a Docs page which include all Maths theories and Problems.
+This is a Docs page which include all Content on Medical, Pharmacy jobs and Recruitments Notifications.
 {{% /pageinfo %}}
 
 
