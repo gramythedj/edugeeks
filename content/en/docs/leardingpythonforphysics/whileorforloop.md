@@ -1,3 +1,8 @@
+---
+title: "Understanding the Differences Between while and for Loops in Python"
+linkTitle: "Understanding the Differences Between while and for Loops in Python"
+---
+
 # Understanding the Differences Between while and for Loops in Python
 
 When it comes to controlling the flow of a program in Python, two commonly used looping constructs are `while` and `for` loops. While both serve the purpose of repeating a set of statements, they have distinct characteristics that make them suitable for different scenarios.
