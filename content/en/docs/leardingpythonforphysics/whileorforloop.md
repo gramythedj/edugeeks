@@ -1,6 +1,7 @@
 ---
 title: "Understanding the Differences Between while and for Loops in Python"
 linkTitle: "Understanding the Differences Between while and for Loops in Python"
+url: /difference-between-while-and-for-loops/
 ---
 
 # Understanding the Differences Between while and for Loops in Python
