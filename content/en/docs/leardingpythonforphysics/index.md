@@ -11,4 +11,5 @@ linkTitle: "Computational Physics, Python notes"
 <a href="lecture 3 part1 - loading and doing operations on a file with single column.html" target="_blank">lecture 3 part1 - loading and doing operations on a file with single column</a><br>
 <a href="lecture3 part2 lading a file with two columns.html" target="_blank">lecture3 part2 lading a file with two columns</a><br>
 <a href="lecture3 part3 for loop.html" target="_blank"> lecture3 part3 for loop</a><br>
+<a href="lecture3 part4 functions.html" target="_blank"> lecture3 part4 functions</a><br>
 <a href="...." target="_blank"> ......</a><br>
