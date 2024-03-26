@@ -16,6 +16,6 @@ Matplotlib.org <br>
 <a href="lecture3 part3 for loop.html" target="_blank"> lecture3 part3 for loop</a><br>
 <a href="lecture3 part4 functions.html" target="_blank"> lecture3 part4 functions</a><br>
 <a href="lecture4 part1 basic plotting and saving it in a pdf.html" target="_blank"> lecture4 part1 basic plotting and saving it in a pdf.html</a><br>
-<a href="lecture4 part2 learing more about plotting.html" target="_blank"> lecture4 part2 learning more about plotting.html</a><be>
+<a href="lecture4 part2 learing more about plotting.html" target="_blank"> lecture4 part2 learning more about plotting.html</a><br>
 <a href="lecture4 part3 scaling of x and y .html" target="_blank"> lecture4 part3 scaling of x and y .html</a><br>
 <a href="...." target="_blank"> ......</a><br>
