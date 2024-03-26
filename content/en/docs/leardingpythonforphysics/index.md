@@ -4,6 +4,8 @@ linkTitle: "Computational Physics, Python notes"
 ---
 websites that would help for further study:
 Matplotlib.org <br>
+<a href="https://matplotlib.org/2.0.2/gallery.html" target="_blank">Gallery of different plots using matplotlib</a><br>
+
 <a href="lecture2 part 1.html" target="_blank">Lecture2 part1</a><br>
 <a href="Lecture2 part 2 - setting password.html" target="_blank">Lecture2 part 2 - setting password</a><br>
 <a href="Lecture2 part3 - setting password 2.html" target="_blank">Lecture2 part 3 - setting password 2</a><br>
