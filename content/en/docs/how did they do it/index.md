@@ -8,4 +8,5 @@ I have been trying to find out but currently, I can't think of what should I fin
 
 1) how did Coulomb define and verify Coulomb's law?
 2) how did we come to the current understanding of the nuclear model of an atom and the history of the discoveries and models of the nucleus
-3) 
+3) how did Schrodinger develop his equation and what are the challenges he faced in developing it?
+4) how did Heisenberg discover the uncertainty principle?
