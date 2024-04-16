@@ -11,3 +11,4 @@ I have been trying to find out but currently, I can't think of what should I fin
 3) how did Schrodinger develop his equation and what are the challenges he faced in developing it?
 4) how did Heisenberg discover the uncertainty principle?
 5) How did Max Plank give his hypothesis and give the fundamental constant h to the world?
+6) How did the idea of vectors develop? how did they develop the basis for vectors that helped so much in the scientific study? what is the history of vectors?
